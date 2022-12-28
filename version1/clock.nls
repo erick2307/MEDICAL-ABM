@@ -1,0 +1,126 @@
+;To use add a button with the "setup-date-and-time" command
+;(E. Mas - 2018.10.25)
+
+globals [ date-string date month year time-string hh mm ss ampm cal-mo cal-dt]
+
+to set-current-date-and-time
+  let ss-temp 0
+  let mm-temp 0
+  let hh-temp 0
+  set date-string (word substring date-and-time 16 length date-and-time)
+  set date read-from-string substring date-string 0 2
+  set month substring date-string 3 6 
+  set year read-from-string substring date-string 7 11
+  set hh read-from-string substring date-and-time 0 2
+  set mm read-from-string substring date-and-time 3 5
+  set ss read-from-string substring date-and-time 6 8
+  set ampm substring date-and-time 13 15
+  ifelse ss < 10 [ set ss-temp (word "0" ss) ][set ss-temp ss]
+  ifelse mm < 10 [ set mm-temp (word "0" mm) ][set mm-temp mm]
+  ifelse hh < 10 [ set hh-temp (word "0" hh) ][set hh-temp hh]
+  set time-string (word hh-temp ":" mm-temp ":" ss-temp " " ampm)
+  display-date
+  display-time
+end
+
+to set-date-and-time
+  ifelse "date" = user-one-of "Choose which one to setup" [ "date" "time" ]
+  [ set-date ]
+  [ set-time ]
+  display-date
+  display-time
+end
+
+to set-date
+  set date-string user-input "Insert date of simulation as 25-Oct-2018"
+  if date-string = "" [ set date-string (word substring date-and-time 16 length date-and-time) ]
+  set date read-from-string substring date-string 0 2
+  set month substring date-string 3 6 
+  set year read-from-string substring date-string 7 11
+  if time-string = 0 [ set-time ]
+end
+
+to set-time
+  let ss-temp 0
+  let mm-temp 0
+  let hh-temp 0
+  set time-string user-input "Insert start time in simulation as 01:00:00 PM (hh:mm:ss)"
+  ifelse time-string = "" 
+  [ set hh read-from-string substring date-and-time 0 2
+    set mm read-from-string substring date-and-time 3 5
+    set ss read-from-string substring date-and-time 6 8
+    set ampm substring date-and-time 13 15
+    set time-string (word hh ":" mm ":" ss " " ampm) 
+  ]
+  [ set hh read-from-string substring time-string 0 2
+    set mm read-from-string substring time-string 3 5
+    set ss read-from-string substring time-string 6 8
+    set ampm substring time-string 9 11    
+    ifelse ss < 10 [ set ss-temp (word "0" ss) ][set ss-temp ss]
+    ifelse mm < 10 [ set mm-temp (word "0" mm) ][set mm-temp mm]
+    ifelse hh < 10 [ set hh-temp (word "0" hh) ][set hh-temp hh]
+    set time-string (word hh-temp ":" mm-temp ":" ss-temp " " ampm)
+  ]
+  if date-string = 0 [ set-date ]
+end
+
+to display-date
+  let x (max-pxcor * 0.95)
+  let y (max-pycor * 0.95)
+  ask patch x y [ set plabel date-string ]
+end
+
+to display-time
+  let x (max-pxcor * 0.95)
+  let y (max-pycor * 0.95)
+  ask patch x (y - 1.5) [ set plabel time-string]
+end
+
+to update-clock
+  set ss ss + 1
+  let ss-temp ss
+  let mm-temp mm
+  let hh-temp hh
+  if ss = 60
+  [ set ss 0
+    set mm mm + 1
+    if mm = 60
+    [ set mm 0
+      if ampm = "AM" and hh = 11
+      [ set ampm "PM" 
+        set hh 12
+      ]
+      if ampm = "PM" and hh = 11
+      [ set ampm "AM" 
+        set hh 0
+        update-date
+      ]
+      if hh != 12 and hh != 0
+      [ set hh hh + 1 ]
+    ]
+  ]
+  ifelse ss < 10 [ set ss-temp (word "0" ss) ][set ss-temp ss]
+  ifelse mm < 10 [ set mm-temp (word "0" mm) ][set mm-temp mm]
+  ifelse hh < 10 [ set hh-temp (word "0" hh) ][set hh-temp hh]
+  set time-string (word hh-temp ":" mm-temp ":" ss-temp " " ampm)
+  display-time
+end
+
+to update-date
+  set cal-mo (list "Jan" "Feb" "Mar" "Apr" "May" "Jun" "Jul" "Ago" "Sep" "Oct" "Nov" "Dec")
+  set cal-dt (list 31 28 31 30 31 30 31 31 30 31 30 31 )
+  let date-temp date
+  set date-temp date-temp + 1
+  let eofm-pos position month cal-mo
+  let eofm-date item eofm-pos cal-dt
+  ifelse date-temp > eofm-date
+  [ set date 1
+    ifelse eofm-pos < 11
+     [ set month item (eofm-pos + 1) cal-mo ]
+     [ set month item 0 cal-mo
+       set year year + 1 ]
+  ]
+  [ set date date + 1 ]
+  set date-string (word date "-" month "-" year)
+  display-date
+end

@@ -1,0 +1,40 @@
+;************************************************************
+;              Rayleigh Distribution calculator
+;                     created by Erick Mas (June 2011)
+;                     revised November 2011
+;                     revised December 2018
+;************************************************************
+;To call the library write the name and the two parameters
+;                      rayleigh t ta
+; where, "t" or "x-ray" is the x axis of the distribution and "ta" or "s-ray" is the 
+; mode of distribution and u-ray the mean
+
+to-report cum-rayleigh [ x-ray u-ray] ;calculates the Rayleigh cumulative distribution
+  let s-ray u-ray * (sqrt (2 / pi ))
+  report 1 - exp ( - ( (x-ray ^ 2) / ( 2 * (s-ray ^ 2) ) ) )
+end
+  
+to-report random-rayleigh [ x-ray u-ray ]
+  let s-ray u-ray * ( sqrt ( 2 / pi ) )
+  report ( x-ray / s-ray ^ 2 ) * exp ( - ( x-ray ^ 2) / (2 * (s-ray ^ 2 )))
+end
+
+to-report random-td-rayleigh [ f-ray u-ray ]
+  let s-ray u-ray * ( sqrt (2 / pi ))
+  report ( sqrt ( -2 * s-ray ^ 2 * ln(1 - f-ray) ) )
+end
+
+to-report sardist [ dist-type time-in-sec ]
+  ;change time-in-sec to hours
+  if dist-type = 0
+  [ let t time-in-sec / 3600
+    let m #victims / max-time 
+    report m * t
+  ]
+end
+
+;this is the exponential function that follows the curve for 72h to rescue 15,000 people
+;and 24h for 1,000 people (#vic = kt^n)
+to-report max-time
+  report ceiling ((5 * #victims / 2)^(1 / (1 + log 5 3)))
+end

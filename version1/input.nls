@@ -1,0 +1,51 @@
+; ===================================================
+; INPUT FILE FOR DISASTER MEDICAL SYSTEM (DMS) MODEL
+; ===================================================
+
+to input-scenario
+; Earthquake?
+  set eq true
+; Tsunami?
+  set tsu true
+  set hor-inund-dist 6.67
+  ;hor-inund-dist x unit-scale = real distance in meters
+  ;better to think in terms of area of inundation
+end
+
+to input-parameters
+  ;SIMULATION PARAMETERS
+  set time-limit 24 ;hours of simulation
+  ;set replicate? true;true ;to avoid full randomness
+  set unit-scale 200 ;1 patch <> unit-scale (m) Tokushima City: ~ 20km x 10km / NetLogo World 100 x 50
+  set date-string "19-Jan-2018" ;verify your PCs format
+  set time-string "01:40:00 PM"
+  ;set erase-previous-files? false ;erase the input files (only if existed, otherwise error)
+  ;set from-files? false ;loads data from file, careful to erase them with the above parameter!
+  ;set export-locations? false ;to export locations, no need when files are ready
+  
+  ;ESSENTIAL FACILITIES
+  set hq-set-time 1 ;hours
+  set #hqs 1
+  set #SCUs 1
+  set #DB-Hosps 5
+  set #Fire-Sta 1
+  set #Gather-points 1
+  
+  ;NUMBER OF VICTIMS
+  set #victims 1000 ;Generally 1% of total population
+  set %-gray-victims 5 ;% from #victims
+  set %-red-victims 5 ;% from #victims
+  set %-yellow-victims 10 ;% from #victims
+  ;green-victims are the remaining 
+  
+  ;OTHER FACILITIES AND RESOURCES
+  set #hospitals 8
+  set #dmat 5
+  set max-#beds 45
+  set max-#drs 10
+  set #ambulances 10
+  set #helicopters 1
+
+  set n-sim #dmat
+end
+

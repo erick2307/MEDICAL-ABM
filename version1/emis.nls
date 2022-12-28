@@ -1,0 +1,61 @@
+;************************************************************
+;              EMIS library
+;           created by Erick Mas (December 2018)
+;************************************************************
+;EMIS = Emergency Medical Information System
+;This is a report summary of variables and other information 
+;that typically is n in an EMIS environment.
+
+globals [ n-sim report-counter ]
+
+to emis-update
+  file-open (word "./output/EMIS_" n-sim ".txt")
+  ;clear-output
+  file-print (word "@@@@@@@@@ START REPORT #" report-counter " @@@@@@@@@@")
+  file-print "========= Current Information Available at Headquarters (EMIS) =========="
+
+  ;report number of victims found with triage
+  file-print "************ VICTIMS WAITING FOR TRANSPORTATION ************"
+  ask hqs
+  [ file-print (word "Transportation needs : " length T-waitlist )
+    file-print (word "Victims Red          : " length filter [i -> [color] of i = red ]  T-waitlist )
+    file-print (word "Victims Yellow       : " length filter [i -> [color] of i = yellow ]  T-waitlist )
+    file-print (word "Victims Green        : " length filter [i -> [color] of i = green ]  T-waitlist )
+  ]
+
+  ;register disaster condition
+  let hosp-list sort hospitals
+  file-print "************ Hospital Damage Situation Report ************"
+  foreach hosp-list [ x -> ask x
+                               [ ifelse report-emis?
+                                  [ file-print (word "ID:" who ", Damage State:" damage) ]
+                                  [ file-print (word "ID:" who ", Damage State Unknown") ]
+                                ]
+                    ]
+  file-print "------ NEEDS -------"
+  let number count hospitals with [not report-emis?]
+  file-print (word "Need to dispatch DMAT teams to grasp damage situation at " number " hospitals.")
+
+  ;register staff arrival
+  file-print "************ Staff Situation ************"
+  foreach hosp-list [ x -> ask x
+                               [ if report-emis?
+                                  [ file-print (word "ID:" who ", Staff:" #drs ", Beds:" #beds) ] 
+                               ]
+                    ]
+
+  ;register dmat arrival
+  ask hqs
+  [ file-print (word "DMAT teams available:" length D-resourcelist ) ]
+  file-print "@@@@@@@ END OF REPORT @@@@@@@@\n"
+  set report-counter report-counter + 1
+  file-close
+end
+
+to-report hospitals-needs
+  let sort-hosp sort hospitals
+  let n [ ]
+  foreach sort-hosp
+  [ i -> set n lput [needs] of i n ]
+  report n
+end

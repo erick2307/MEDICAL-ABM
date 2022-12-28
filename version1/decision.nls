@@ -1,0 +1,141 @@
+;Balanced Decision Table to Decide DMAT dispatch for in-hospital support
+;"IF HEAVY damage AND HIGH #redvictims AND FEW #Drs AND FEW #Beds -> TRUE send HIGH #DMAT teams"
+;Query-table is calculated based on weights [0.5 0.5 1 1] -> View Excel file "Assumptions.xls"
+
+;Possibe Values (Ordered in worst to best)								                                                                                Higher number of DMAT dispatched is a worse case
+;-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+;  #Beds  |  "Value (%of max#beds)" |	#Drs   | "Value (%of max#drs)"	 | Damage	| Value |	#RedVictims| "Value (%of current max#victims)" |	DMAT needs |	"Value (%of max DMAT-teams)"
+;-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+;  FEW	  |  <-inf,-0.3>       	    | FEW    | [0.0-0.3>	             | HEAVY  |   2	  | HIGH	     |          [0.8-1.0]	               |  HIGH	     |  [0.7-1.0]
+;  SOME   |  [0.3-0.7>	            | SOME   | [0.3-0.7>	             | PARTIAL|   1	  | MEDIUM	   |          [0.5-0.8>	               |  MEDIUM	   |  [0.4-0.7>
+;  LOTS	  |  [0.7-1.0]         	    | LOTS	 | [0.7-1.0]	             | NONE	  |   0	  | LOW	       |          [0.0-0.5>	               |  LOW	       |  [0.0-0.4>
+;-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+to-report hospital-status [data]
+  let beds check-beds data
+  let drs check-drs data
+  let dl check-dl data
+  let vics check-vics data
+  report (word beds " " drs " " dl " " vics)
+end
+  
+to-report check-beds [data]
+  if (item 0 data < 0.3 * max-#beds) [ report "few" ]
+  if (item 0 data >= 0.3 * max-#beds and item 0 data < 0.7 * max-#beds) [ report "some" ]
+  if (item 0 data >= 0.7 * max-#beds) [ report "lots" ]
+end
+  
+to-report check-drs [data]
+  let count-staff item 1 data
+  if (item 3 data) [ set count-staff count-staff + 2 ] ;2 staff per dmat-team
+  
+  ;check #drs or staff
+  if (count-staff < 0.3 * max-#drs) [ report "few" ]
+  if (count-staff >= 0.3 * max-#drs and count-staff < 0.7 * max-#drs) [ report "some" ]
+  if (count-staff >= 0.7 * max-#drs) [ report "lots" ]
+end
+
+to-report check-dl [data]
+  if (item 2 data = 0) [ report "none" ]
+  if (item 2 data = 1) [ report "partial" ]
+  if (item 2 data = 2) [ report "heavy" ]
+end
+  
+to-report check-vics [data]
+  let current-victims count victims with [hidden? = false]
+  if (item 4 data < 0.5 * current-victims) [ report "low" ]
+  if (item 4 data >= 0.5 * current-victims and item 4 data < 0.8 * current-victims) [ report "medium" ]
+  if (item 4 data >= 0.8 * current-victims) [ report "high" ]
+end
+
+to-report query-table [ x ]
+if (x = "few few none low") [ report "low"]			
+if (x = "few few none medium") [ report "medium"]			
+if (x = "few few none high") [ report "medium"]			
+if (x = "few few partial low") [ report "medium"]			
+if (x = "few few partial medium") [ report "medium"]			
+if (x = "few few partial high") [ report "high"]			
+if (x = "few few heavy low") [ report "medium"]			
+if (x = "few few heavy medium") [ report "high"]			
+if (x = "few few heavy high") [ report "high"]			
+if (x = "few some none low") [ report "low"]			
+if (x = "few some none medium") [ report "medium"]			
+if (x = "few some none high") [ report "medium"]			
+if (x = "few some partial low") [ report "medium"]			
+if (x = "few some partial medium") [ report "medium"]			
+if (x = "few some partial high") [ report "high"]			
+if (x = "few some heavy low") [ report "medium"]			
+if (x = "few some heavy medium") [ report "high"]			
+if (x = "few some heavy high") [ report "high"]			
+if (x = "few lots none low") [ report "low"]			
+if (x = "few lots none medium") [ report "low"]			
+if (x = "few lots none high") [ report "medium"]			
+if (x = "few lots partial low") [ report "low"]			
+if (x = "few lots partial medium") [ report "medium"]			
+if (x = "few lots partial high") [ report "medium"]			
+if (x = "few lots heavy low") [ report "medium"]			
+if (x = "few lots heavy medium") [ report "medium"]			
+if (x = "few lots heavy high") [ report "high"]			
+if (x = "some few none low") [ report "low"]			
+if (x = "some few none medium") [ report "medium"]			
+if (x = "some few none high") [ report "medium"]			
+if (x = "some few partial low") [ report "medium"]			
+if (x = "some few partial medium") [ report "medium"]			
+if (x = "some few partial high") [ report "high"]			
+if (x = "some few heavy low") [ report "medium"]			
+if (x = "some few heavy medium") [ report "high"]			
+if (x = "some few heavy high") [ report "high"]			
+if (x = "some some none low") [ report "low"]			
+if (x = "some some none medium") [ report "low"]			
+if (x = "some some none high") [ report "medium"]			
+if (x = "some some partial low") [ report "low"]			
+if (x = "some some partial medium") [ report "medium"]			
+if (x = "some some partial high") [ report "medium"]			
+if (x = "some some heavy low") [ report "medium"]			
+if (x = "some some heavy medium") [ report "medium"]			
+if (x = "some some heavy high") [ report "high"]			
+if (x = "some lots none low") [ report "low"]			
+if (x = "some lots none medium") [ report "low"]			
+if (x = "some lots none high") [ report "medium"]			
+if (x = "some lots partial low") [ report "low"]			
+if (x = "some lots partial medium") [ report "medium"]			
+if (x = "some lots partial high") [ report "medium"]			
+if (x = "some lots heavy low") [ report "medium"]			
+if (x = "some lots heavy medium") [ report "medium"]			
+if (x = "some lots heavy high") [ report "high"]			
+if (x = "lots few none low") [ report "low"]			
+if (x = "lots few none medium") [ report "low"]			
+if (x = "lots few none high") [ report "medium"]			
+if (x = "lots few partial low") [ report "low"]			
+if (x = "lots few partial medium") [ report "medium"]			
+if (x = "lots few partial high") [ report "medium"]			
+if (x = "lots few heavy low") [ report "medium"]			
+if (x = "lots few heavy medium") [ report "medium"]			
+if (x = "lots few heavy high") [ report "high"]			
+if (x = "lots some none low") [ report "low"]			
+if (x = "lots some none medium") [ report "low"]			
+if (x = "lots some none high") [ report "medium"]			
+if (x = "lots some partial low") [ report "low"]			
+if (x = "lots some partial medium") [ report "medium"]			
+if (x = "lots some partial high") [ report "medium"]			
+if (x = "lots some heavy low") [ report "medium"]			
+if (x = "lots some heavy medium") [ report "medium"]			
+if (x = "lots some heavy high") [ report "high"]			
+if (x = "lots lots none low") [ report "low"]			
+if (x = "lots lots none medium") [ report "low"]			
+if (x = "lots lots none high") [ report "low"]			
+if (x = "lots lots partial low") [ report "low"]			
+if (x = "lots lots partial medium") [ report "low"]			
+if (x = "lots lots partial high") [ report "medium"]			
+if (x = "lots lots heavy low") [ report "low"]			
+if (x = "lots lots heavy medium") [ report "medium"]			
+if (x = "lots lots heavy high") [ report "medium"]			
+end
+
+to-report translate-to-number [ x ]
+  if x = "none"    [ report 0 ]
+  if x = "low"     [ report 1 ]
+  if x = "medium"  [ report 2 ]
+  if x = "high"    [ report 3 ]
+  if x = "unknown" [ report -1 ]
+end

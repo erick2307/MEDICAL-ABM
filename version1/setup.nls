@@ -1,0 +1,508 @@
+globals [
+  time-limit
+  ;replicate?
+  unit-scale 
+  ;erase-previous-files?
+  ;from-files?
+  ;export-locations?
+  
+  eq
+  tsu
+  hor-inund-dist
+  
+  hq-set-time
+  #hqs
+  #SCUs
+  #DB-Hosps
+  #Fire-Sta
+  #Gather-points
+  #victims
+  %-gray-victims
+  %-red-victims
+  %-yellow-victims
+  %-of-beds-in-use
+  #hospitals
+  ;#dmat
+  max-#beds
+  max-#drs
+  dr-link-flag 
+  #ambulances
+  #helicopters
+] 
+
+;initialize environment
+to setup
+  file-close-all
+  clear-all
+  reset-ticks
+  if movie? [vid:reset-recorder vid:start-recorder vid:record-view ]
+  input-scenario
+  draw-tsunami
+  input-parameters  
+  ;to always replicate same scenario
+  if replicate? [ random-seed 100 ] 
+  ;initialize variables
+  set grid-flag false
+  set s1-flag false
+  set s2-flag false
+  set report-counter 1
+  
+  set date read-from-string substring date-string 0 2
+  set month substring date-string 3 6 
+  set year read-from-string substring date-string 7 11
+  set hh read-from-string substring time-string 0 2
+  set mm read-from-string substring time-string 3 5
+  set ss read-from-string substring time-string 6 8
+  set ampm substring time-string 9 11
+  
+  display-date
+  display-time
+
+  ;************ HQ ***************
+  create-hqs #hqs
+  [ ifelse from-files?
+    [ file-open "./input/HQs-location.txt"
+      let dummy file-read
+      let x file-read
+      let y file-read
+      setxy x y
+    ]
+    [ setxy random-x-s2 random-y-s2 ] ;randomly out of iundation area
+    set shape "building institution"
+    set size 5
+    set color white
+    set label "HEADQUARTERS"
+    set TE-waitlist [] ;tsunami evacuation
+    set HWT-waitlist [] ;from hub to scu
+    set WT-waitlist [] ;from hosp to hub
+    set T-waitlist [] ;from area to hosp/hub
+    set T-resourcelist [] 
+    set D-waitlist [] ;dmat need in hosp
+    set D-resourcelist []
+  ]
+
+    ;************ SCU ***************
+  create-SCUs #SCUs
+  [ ifelse from-files?
+    [ file-open "./input/SCUs-location.txt"
+      let dummy file-read
+      let x file-read
+      let y file-read
+      setxy x y
+    ]
+    [ setxy random-x-s2 random-y-s2 ] ;randomly out of iundation area
+    set red-patients [ ]
+    set yellow-patients [ ]
+    set green-patients [ ]
+    set gray-patients [ ]
+    set #beds max-#beds
+    set shape "house two story"
+    set size 6
+    set color yellow
+    set label "STAGING CARE UNIT"
+    set label-color yellow
+  ]
+  
+    ;************ GATHER-POINTS ***************
+  create-gather-points #Gather-points
+  [ ifelse from-files?
+    [ file-open "./input/gatheringPoints-location.txt"
+      let dummy file-read
+      let x file-read
+      let y file-read
+      setxy x y
+    ]
+    [ setxy random-x-s2 random-y-s2 ] ;randomly out of iundation area
+    set shape "target"
+    set size 3
+    set color white
+    set label "GATHERING POINT"
+    set label-color white
+  ]
+
+  ;************ HOSPITALS ***************
+  create-hospitals #hospitals
+  [ ifelse from-files?
+    [ file-open "./input/hospitals-location.txt"
+      let dummy file-read
+      let x file-read
+      let y file-read
+      setxy x y
+    ]
+    [ setxy random max-pxcor random max-pycor ] ;anywhere 
+    set #beds random max-#beds
+    if #beds < 10 [ set #beds 10 ]
+    set #evacuees max-#beds - #beds
+    set #drs random max-#drs
+    if #drs < 1 [ set #drs 3 ]
+    set #dmats 0
+    set h-rescue-unit nobody
+    ifelse [pcolor] of patch-here = 83 [ set tsunami? true] [ set tsunami? false]
+    set red-patients [ ]
+    set yellow-patients [ ]
+    set green-patients [ ]
+    set gray-patients [ ]
+    set original-patients [ ]
+    set report-emis? one-of [true false]
+    set damage random 3
+    set dmat-assigned? false
+    let info (list #beds #drs damage dmat-assigned? length red-patients)
+    set needs query-table hospital-status info
+    set shape "house"
+    set size 2
+    set hidden? false
+    if needs = "unknown" [set color gray ]
+    if needs = "none" [set color white ]
+    if needs = "low" [ set color green ] 
+    if needs = "medium" [ set color yellow ]
+    if needs = "high" [ set color red ]
+    attach-banner (word "id:" who ", beds:" #beds ", drs now:" #drs ", DMAT now:" #dmats ", evacuees now:" #evacuees ", victims now:" 0)   
+    if report-emis? [ ask hqs [ set D-waitlist lput myself D-waitlist ] ]
+    ask hqs [ set T-resourcelist lput myself T-resourcelist ]
+
+    ;************ DOCTORS-IN-HOPS ***************
+  ;define doctors (user selection number, random location v6.0 / at own-hospital v6.1)
+    hatch-doctors #drs
+    [ set state 2
+      set duty 0
+      set duty-time 0
+      set shape "person doctor"
+      set color [color] of myself
+      set size 2
+      set hidden? true
+      create-link-to myself [ hide-link ]
+      set dr-link-flag true
+      set dr-speed (1.0 + random-float 1.8) / unit-scale ;[1.0 - 2.8] m/s? 
+    ]
+
+      ;************ EVACUEES-IN-HOSP ***************
+    hatch-h-evacuees #evacuees
+    [ set goal nobody
+      set color white
+      set health 80 + random-float 20
+      set state 0
+      set severeness one-of (range 0.0005 0.0009 0.0001) ;best case after 55h dead; worst case after 30h dead for a full health guy ;unit/sec
+      set recovery one-of (range 0.0005 0.0009 0.0001) ;recovery is same curve
+      set rescue-unit nobody
+      set medicalcenter myself
+      set shape "dot"   
+      set hidden? true
+      set evac-speed (1.0 + random-float 1.8) / unit-scale ;[1.0 - 2.8] m/s? 
+      ask myself [ set original-patients lput myself original-patients ]
+    ]
+  ]
+  
+    ;************ VICTIMS ***************
+  create-victims #victims ;this is the `% of total population
+  [ ifelse from-files?
+    [ file-open "./input/victims-location.txt"
+      let dummy file-read
+      let x file-read
+      let y file-read
+      setxy x y
+    ]
+    [ setxy random max-pxcor random max-pycor ] ;anywhere
+    set goal min-one-of hospitals with [ tsunami? = false] [distance myself]
+    set color green
+    set health 80 + random-float 20
+    set state 0
+    set severeness one-of (range 0.0005 0.0009 0.0001) ;best case after 55h dead; worst case after 30h dead for a full health guy ;unit/sec
+    set recovery one-of (range 0.0005 0.0009 0.0001) ;recovery is same curve
+    set rescue-unit nobody
+    set medicalcenter nobody
+    set shape "circle"   
+    set hidden? true
+    set vic-speed (1.0 + random-float 1.8) / unit-scale ;[1.0 - 2.8] m/s? 
+  ]
+  
+  ask n-of (floor %-gray-victims * #victims * 0.01) (victims with [color = green]) [ set color gray set health -9999 ] 
+  ask n-of (floor %-red-victims * #victims * 0.01) (victims with [color = green]) [ set color red set health 1 + random-float 39 ] 
+  ask n-of (floor %-yellow-victims * #victims * 0.01) (victims with [color = green]) [ set color yellow set health 40 + random-float 39 ] 
+  
+  ;************ DMAT ***************
+  ;define dmat-teams (user selection number, start at HQ)
+  create-dmat-teams #dmat 
+  [ ifelse from-files?
+    [ file-open "./input/DMATs-location.txt"
+      let dummy file-read
+      let x file-read
+      let y file-read
+      setxy x y
+    ]
+    [ setxy random-x-s2 random-y-s2 ] ;randomly out of iundation area
+    set state 3
+    set duty 1
+    set duty-time 0
+    set goal one-of gather-points
+    set dmat-speed  (5 + random-float 17) / unit-scale ; [5-22]<>[18 - 80] km/h
+    set shape "dmat"
+    set size 2
+    set color white
+  ]
+  
+  ;************ HUB HOSP *************** DISASTER BASE HOSPITAL
+  ; like hospital but higher capacity
+  ; also has patients
+  create-hub-hosps #DB-Hosps
+  [ ifelse from-files?
+    [ file-open "./input/dbhospitals-location.txt"
+      let dummy file-read
+      let x file-read
+      let y file-read
+      setxy x y
+    ]
+    [ setxy random-x-s2 random-y-s2 ] ;randomly out of iundation area
+    set red-patients [ ]
+    set yellow-patients [ ]
+    set green-patients [ ]
+    set gray-patients [ ]
+    set original-patients [ ]
+    set #beds random max-#beds
+    if #beds < 20 [ set #beds 20 ]
+    set #drs random max-#drs
+    if #drs < 5 [ set #drs 5 ]
+    set #evacuees max-#beds - #beds
+    set shape "house two story"
+    set size 4
+    set color blue
+    set label "DISASTER BASE HOSPITAL"
+    set label-color cyan
+    ask hqs [ set T-resourcelist lput myself T-resourcelist ]
+    
+        ;************ DOCTORS-IN-DB-HOSP ***************
+    hatch-doctors #drs
+    [ set state 2
+      set duty 0
+      set duty-time 0
+      set shape "person doctor"
+      set color [color] of myself
+      set size 2
+      set hidden? true
+      create-link-to myself [ hide-link ]
+      set dr-link-flag true
+      set dr-speed (1.0 + random-float 1.8) / unit-scale ;[1.0 - 2.8] m/s? 
+    ]
+
+      ;************ EVACUEES-IN-DB-HOSP ***************
+    hatch-h-evacuees #evacuees
+    [ set goal nobody
+      set color white
+      set health 80 + random-float 20
+      set state 5
+      set severeness one-of (range 0.0005 0.0009 0.0001) ;best case after 55h dead; worst case after 30h dead for a full health guy ;unit/sec
+      set recovery one-of (range 0.0005 0.0009 0.0001) ;recovery is same curve
+      set rescue-unit nobody
+      set medicalcenter myself
+      set shape "dot"   
+      set hidden? true
+      set evac-speed (1.0 + random-float 1.8) / unit-scale ;[1.0 - 2.8] m/s? 
+      ask myself [ set original-patients lput myself original-patients ]
+    ]
+  ]
+
+    ;************ FIRE-STATIONS ***************
+  create-fire-stations #Fire-Sta
+  [ ifelse from-files?
+    [ file-open "./input/fireStations-location.txt"
+      let dummy file-read
+      let x file-read
+      let y file-read
+      setxy x y
+    ]
+    [ setxy random-x-s2 random-y-s2 ] ;randomly out of iundation area
+    set shape "fire department"
+    set size 3
+    set color orange
+    set label "FIRE STATION"
+    set label-color orange
+  ]
+  
+  ;************ AMBULANCES ***************
+  create-ambulances #ambulances
+  [ move-to one-of fire-stations
+    set shape "ambulance"
+    set hidden? true
+    set size 3
+    set color white
+    set state 0
+    set task 0
+    set goal nobody
+    set patient nobody
+    set duty 0
+    set duty-time 0
+    set amb-load-unload-time one-of (range (5 * 60) (20 * 60) (5 * 60)) ;5min to 20min
+    set amb-speed (5 + random-float 17) / unit-scale ; [5-22]<>[18 - 80] km/h
+    ask hqs [ set T-resourcelist lput myself T-resourcelist ]
+    set label (word "id:" who)
+  ]
+  
+  
+  ;************ HELICOPTERS ***************
+  create-helis #helicopters
+  [ set shape "helicopter"
+    move-to one-of SCUs
+    set hidden? true
+    set size 3
+    set color green
+    set state 0
+    set task 0
+    set goal nobody
+    set lt-goal nobody ;long term goal for tsunami evacuation in hospital
+    set patient nobody
+    set #trips-left 0
+    set duty 0
+    set duty-time 0
+    set heli-load-unload-time one-of (range (5 * 60) (20 * 60) (5 * 60)) ;5min to 20min
+    set heli-speed (10 + random-float 34) / unit-scale ; [10-44]<>[36 - 160] km/h SHOULD BE NOT REAL BUT BASED ON AVG TIME THAT TAKES TO REACH A VICITM SOMEWHERE
+    ask hqs [ set T-resourcelist lput myself T-resourcelist ]
+  ]
+  
+  if tsu [ 
+    ask hqs [ set TE-waitlist sort-on [(- (#evacuees) / (#drs))] hospitals with [tsunami? = true] ] 
+    ;killing all people who wnet randomnly located inside inundation area
+    ask victims with [ [pcolor] of patch-here = 83 ] [ set state 0 set health -99 set severeness 0 set recovery 0 set color gray ]
+  ]
+  
+  if erase-previous-files? 
+  [ file-delete "./input/dbhospitals-location.txt"
+    file-delete "./input/fireStations-location.txt"
+    file-delete "./input/gatheringPoints-location.txt"
+    file-delete "./input/hospitals-location.txt"
+    file-delete "./input/HQs-location.txt"
+    file-delete "./input/SCUs-location.txt"
+    file-delete "./input/victims-location.txt"
+    file-delete "./input/DMATs-location.txt"
+  ] 
+  if export-locations? [ export-locations ]
+  file-close-all
+end
+
+to add-dmats
+    create-dmat-teams #add-dmat 
+  [ setxy random-x-s2 random-y-s2
+    set state 3
+    set duty 1
+    set duty-time 0
+    set goal one-of gather-points
+    set dmat-speed ( 1.0 + random-float 1.8 ) / unit-scale ;[1.0 - 2.8] m/s?
+    set shape "dmat"
+    set size 2
+    set color white
+  ]
+end
+
+to add-ambulances
+  create-ambulances #add-ambulances
+  [ ;setxy random-x-s2 random-y-s2 ;where to start? hub-hosp?
+    move-to one-of fire-stations
+    set shape "ambulance"
+    set hidden? true
+    set size 3
+    set color white
+    set state 0
+    set task 0
+    set goal nobody
+    set patient nobody
+    set duty 0
+    set duty-time 0
+    set amb-load-unload-time one-of (range (5 * 60) (20 * 60) (5 * 60)) ;5min to 20min
+    set amb-speed (5 + random-float 17) / unit-scale ; [5-22]<>[18 - 80] km/h
+    ask hqs [ set T-resourcelist lput myself T-resourcelist ]
+    set label (word "id:" who)
+  ]
+end
+
+to add-helicopters
+  create-helis #add-helicopters
+  [ set shape "helicopter"
+    move-to one-of SCUs
+    set hidden? true
+    set size 3
+    set color green
+    set state 0
+    set task 0
+    set goal nobody
+    set patient nobody
+    set #trips-left 0
+    set duty 0
+    set duty-time 0
+    set heli-load-unload-time one-of (range (5 * 60) (20 * 60) (5 * 60)) ;5min to 20min
+    set heli-speed (10 + random-float 34) / unit-scale ; [10-44]<>[36 - 160] km/h SHOULD BE NOT REAL BUT BASED ON AVG TIME THAT TAKES TO REACH A VICITM SOMEWHERE
+    ask hqs [ set T-resourcelist lput myself T-resourcelist ]
+  ]
+end
+
+to attach-banner [x]  ;; hospital procedure
+  hatch-banners 1 [
+    set size 0
+    set hidden? true
+    set show? [report-emis?] of myself
+    ifelse show?
+    [ set label x ]
+    [ set label (word "id:" [who] of myself) ]
+    set heading label-heading
+    fd label-distance
+    create-link-from myself [
+      tie
+      hide-link
+    ]
+  ]
+end
+
+to reposition
+  ask banners
+  [ move-to one-of in-link-neighbors
+    set heading label-heading
+    fd label-distance
+    wait 0.01
+  ]
+end
+
+to drs-show-link
+  ifelse dr-link-flag
+    [ ask doctors [ ask my-out-links [ show-link ]]
+      set dr-link-flag false
+  ]
+    [ ask doctors [ ask my-out-links [ hide-link ]] 
+      set dr-link-flag true
+  ]
+end
+
+to draw-tsunami
+  if tsu [ ask patches with [pxcor < hor-inund-dist] [ set pcolor 83 ] ]
+end
+
+to export-locations
+  ;victims
+  file-open "./input/victims-location.txt"
+  foreach sort victims [ ? -> ask ? [ file-type who file-type " " file-type xcor file-type " " file-print ycor ]]
+  file-close
+  ;hospitals
+  file-open "./input/hospitals-location.txt"
+  foreach sort hospitals [ ? -> ask ? [ file-type who file-type " " file-write xcor file-type " " file-print ycor ]]
+  file-close
+  ;disaster base hospitals
+  file-open "./input/dbhospitals-location.txt"
+  foreach sort hub-hosps [ ? -> ask ? [ file-type who file-type " " file-write xcor file-type " " file-print ycor ]]
+  file-close
+  ;scu
+  file-open "./input/SCUs-location.txt"
+  foreach sort SCUs [ ? -> ask ? [ file-type who file-type " " file-write xcor file-type " " file-print ycor ]]
+  file-close
+  ;hq
+  file-open "./input/HQs-location.txt"
+  foreach sort hqs [ ? -> ask ? [ file-type who file-type " " file-write xcor file-type " " file-print ycor ]]
+  file-close
+  ;fire-stations
+  file-open "./input/fireStations-location.txt"
+  foreach sort fire-stations [ ? -> ask ? [ file-type who file-type " " file-write xcor file-type " " file-print ycor ]]
+  file-close
+  ;gathering points
+  file-open "./input/gatheringPoints-location.txt"
+  foreach sort gather-points [ ? -> ask ? [ file-type who file-type " " file-write xcor file-type " " file-print ycor ]]
+  file-close
+  ;DMATs
+  file-open "./input/DMATs-location.txt"
+  foreach sort dmat-teams [ ? -> ask ? [ file-type who file-type " " file-write xcor file-type " " file-print ycor ]]
+  file-close
+end

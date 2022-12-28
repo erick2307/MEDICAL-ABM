@@ -1,0 +1,57 @@
+extensions [ gis pathdir ]
+
+globals [ loaded-shp data ]
+to load-shp
+  let file user-file
+  if is-string? file
+  [ set loaded-shp gis:load-dataset file
+    gis:set-world-envelope (gis:envelope-of loaded-shp)
+    set data patches gis:intersecting loaded-shp
+    ask data [ set pcolor white ]
+  ]
+end
+
+;to load-spatial  
+;  ;loading GIS data
+;  let dir-temp word pathdir:get-model-path "//SpatialDB"
+;  set-current-directory dir-temp
+;  let Sea gis:load-dataset user-file ;"Sea.shp"
+;  print Sea
+;  let Land gis:load-dataset "Land.shp"
+;  let Urban gis:load-dataset "Land.shp" ;"Urban.shp"
+;  let Streets gis:load-dataset "Streets.shp"
+;  let Exit-dataset gis:load-dataset "Exits.shp"
+;  let TEB-dataset gis:load-dataset "TEB.shp"
+;
+;  gis:set-world-envelope ( gis:envelope-union-of (gis:envelope-of Land)
+;                                                (gis:envelope-of Urban)
+;                                                (gis:envelope-of Streets)
+;                                                (gis:envelope-of Sea)
+;                                                (gis:envelope-of Exit-dataset)
+;                                                (gis:envelope-of TEB-dataset)
+;                                                )
+;  set land-patches patches gis:intersecting Land
+;  set urban-patches patches gis:intersecting Urban
+;  set street-patches patches gis:intersecting Streets
+;  set sea-patches patches gis:intersecting Sea
+;
+;  ask patches [set pcolor blue]
+;  ask land-patches [ set pcolor white ]
+;  ask street-patches [ set pcolor green ]
+;  ;gis:set-drawing-color 4
+;  ;gis:fill urban 0.05
+;  ask exit-patches [ set pcolor green sprout 1 [set color violet set size 4 set shape "circle" stamp die]
+;                     set exit-capacity lput (list self 0) exit-capacity ]
+;  foreach gis:feature-list-of teb-dataset
+;  [ ask patches gis:intersecting ? [ if not only-exits? [ sprout 1 [set color violet set size 4 set shape "circle" stamp die] ]
+;                                     ;set teb-capacity lput (list self gis:property-value ? "capacity") teb-capacity
+;                                     set teb-capacity lput (list self 0) teb-capacity ;gis:property-value ? "capacity") teb-capacity
+;                                   ]
+;  ]
+;  if Bck?
+;  [ import-drawing "Bckgrd.png"]
+;  set-current-directory pathdir:get-model
+;  output-print (word "Spatial data: " timer " sec.")
+;  reset-timer
+;  clear-turtles
+;end

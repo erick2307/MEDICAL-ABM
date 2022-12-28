@@ -1,0 +1,87 @@
+;************************************************************
+;              Space library
+;           created by Erick Mas (December 2018)
+;************************************************************
+;This is to divide a world space in "set-portion-h" and "set-portion-v" size
+;random points in each space can be calculated with the additional functions
+
+globals [ s1-flag s2-flag portion-h portion-v ]
+
+;when the division of space is horizontally tiled
+to divide-space-h
+  ifelse s1-flag
+  [ clear-drawing
+    set s1-flag false
+    set s2-flag false
+  ]
+  [ set-portion-h
+    draw-line-s1
+    set s1-flag true
+  ]
+end
+
+to set-portion-h
+  set portion-h hor-inund-dist / 100 ;read-from-string user-input "Set portion of window to be splitted (i.e 0.8)"
+end
+
+to draw-line-s1
+  crt 1 
+  [ setxy (max-pxcor * portion-h) min-pycor
+    set heading 0
+    set color white
+    pd
+    fd world-height
+    die
+  ]
+end
+;================================= RANDOM POINT IN SPACE 1 =====================
+to-report random-x-s1
+  if portion-h = 0 [ set-portion-h ]
+  report random-float (max-pxcor * portion-h)
+end
+
+to-report random-y-s1
+  report random-float max-pycor
+end
+
+;===================================================
+
+;when the division of space is vertically tiled
+to divide-space-v
+  ifelse s2-flag
+  [ clear-drawing
+    set s2-flag false
+    set s1-flag false
+  ]
+  [ set-portion-v
+    draw-line-s2
+    set s2-flag true
+  ]
+end
+
+to set-portion-v
+  set portion-v 1 ;read-from-string user-input "Set portion of window to be splitted (i.e 0.8)"
+end
+
+to draw-line-s2
+  crt 1 
+  [ setxy (max-pxcor * portion-h) (max-pycor * portion-v) ;to create a square for the date time
+    set heading 90
+    set color white
+    pd
+    fd world-width * (1 - portion-h)
+    die
+  ]
+end
+
+;================================= RANDOM POINT IN SPACE 2 =====================
+
+to-report random-x-s2
+  if portion-h = 0 [ set-portion-h ]
+  report (max-pxcor * portion-h) + random-float (max-pxcor - (max-pxcor * portion-h))
+end
+
+to-report random-y-s2
+  if portion-v = 0 [ set-portion-v ]
+  report random-float (max-pycor * portion-v)
+end

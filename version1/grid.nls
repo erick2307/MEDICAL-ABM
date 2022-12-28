@@ -1,0 +1,42 @@
+;************************************************************
+;              Grid library
+;           created by Erick Mas (October 2018)
+;************************************************************
+;To use add a button with the "grid-switch" command
+
+globals [ grid-flag ]
+
+to grid-switch
+  ifelse grid-flag
+  [ clear-drawing
+    set grid-flag false
+    set s1-flag false 
+    set s2-flag false 
+  ]
+  [ draw-grid
+    set grid-flag true
+  ]
+end
+
+to draw-grid
+  ask patches with [ pycor = min-pycor ] 
+  [ sprout 1 
+    [ set xcor xcor - 0.5
+      set color 2
+      set heading 0
+      pd
+      fd world-height
+      die
+    ]
+  ]
+  ask patches with [ pxcor = min-pxcor ] 
+  [ sprout 1 
+    [ set ycor ycor - 0.5
+      set color 2
+      set heading 90
+      pd
+      fd world-width
+      die
+    ]
+  ]
+end

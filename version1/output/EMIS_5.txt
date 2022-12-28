@@ -1,0 +1,3741 @@
+@@@@@@@@@ START REPORT #1 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+@@@@@@@@@ START REPORT #2 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 574 arrived to hospital alone
+Victim 1133 arrived to hospital alone
+Victim 632 arrived to hospital alone
+@@@@@@@@@ START REPORT #1 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 1
+Victims Red          : 0
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 674 arrived to hospital alone
+Victim 573 arrived to hospital alone
+Victim 350 arrived to hospital alone
+Victim 677 arrived to hospital alone
+Victim 554 arrived to hospital alone
+Victim 568 arrived to hospital alone
+Victim 1066 arrived to hospital alone
+Victim 984 arrived to hospital alone
+Victim 624 arrived to hospital alone
+@@@@@@@@@ START REPORT #2 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 1
+Victims Red          : 0
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+DMAT 1207 arrived to Hub hospital. Waiting for instructions.
+Victim 1029 arrived to hospital alone
+Victim 373 arrived to hospital alone
+Victim 303 arrived to hospital alone
+Victim 1006 arrived to hospital alone
+Victim 1087 arrived to hospital alone
+Victim 1172 arrived to hospital alone
+Victim 908 arrived to hospital alone
+Victim 707 arrived to hospital alone
+Victim 394 arrived to hospital alone
+Victim 307 arrived to hospital alone
+@@@@@@@@@ START REPORT #3 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 1
+Victims Red          : 0
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:1
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 757 arrived to hospital alone
+Victim 1074 arrived to hospital alone
+Victim 1099 arrived to hospital alone
+Victim 1086 arrived to hospital alone
+Victim 1121 arrived to hospital alone
+Victim 282 arrived to hospital alone
+Victim 628 arrived to hospital alone
+Victim 309 arrived to hospital alone
+Victim 392 arrived to hospital alone
+Victim 759 arrived to hospital alone
+Victim 866 arrived to hospital alone
+Victim 805 arrived to hospital alone
+Victim 316 arrived to hospital alone
+Victim 1126 arrived to hospital alone
+Victim 771 arrived to hospital alone
+Victim 588 arrived to hospital alone
+Victim 1064 arrived to hospital alone
+Victim 912 arrived to hospital alone
+Victim 609 arrived to hospital alone
+@@@@@@@@@ START REPORT #4 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:1
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 954 arrived to hospital alone
+Victim 695 arrived to hospital alone
+Victim 403 arrived to hospital alone
+Victim 352 arrived to hospital alone
+Victim 381 arrived to hospital alone
+Victim 982 arrived to hospital alone
+Victim 1127 arrived to hospital alone
+Victim 228 arrived to hospital alone
+Victim 801 arrived to hospital alone
+Victim 1077 arrived to hospital alone
+Victim 962 arrived to hospital alone
+Victim 907 arrived to hospital alone
+Victim 565 arrived to hospital alone
+Victim 973 arrived to hospital alone
+Victim 576 arrived to hospital alone
+Victim 529 arrived to hospital alone
+Victim 713 arrived to hospital alone
+Victim 306 arrived to hospital alone
+Victim 407 arrived to hospital alone
+@@@@@@@@@ START REPORT #5 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:1
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 975 arrived to hospital alone
+Victim 243 arrived to hospital alone
+Victim 1205 arrived to hospital alone
+Victim 514 arrived to hospital alone
+Victim 230 arrived to hospital alone
+Victim 578 arrived to hospital alone
+Victim 821 arrived to hospital alone
+Victim 934 arrived to hospital alone
+Victim 1035 arrived to hospital alone
+Victim 292 arrived to hospital alone
+Victim 460 arrived to hospital alone
+Victim 857 arrived to hospital alone
+Victim 803 arrived to hospital alone
+Victim 418 arrived to hospital alone
+Victim 1007 arrived to hospital alone
+Victim 689 arrived to hospital alone
+Victim 1034 arrived to hospital alone
+Victim 344 arrived to hospital alone
+Victim 928 arrived to hospital alone
+Victim 887 arrived to hospital alone
+Victim 870 arrived to hospital alone
+Victim 775 arrived to hospital alone
+Victim 222 arrived to hospital alone
+Victim 409 arrived to hospital alone
+@@@@@@@@@ START REPORT #6 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:1
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 940 arrived to hospital alone
+Victim 770 arrived to hospital alone
+Victim 862 arrived to hospital alone
+Victim 1058 arrived to hospital alone
+Victim 646 arrived to hospital alone
+Victim 740 arrived to hospital alone
+Victim 767 arrived to hospital alone
+Victim 213 arrived to hospital alone
+Victim 255 arrived to hospital alone
+Victim 348 arrived to hospital alone
+Victim 1014 arrived to hospital alone
+Victim 1177 arrived to hospital alone
+Victim 264 arrived to hospital alone
+Victim 833 arrived to hospital alone
+Victim 329 arrived to hospital alone
+Victim 1045 arrived to hospital alone
+Victim 570 arrived to hospital alone
+Victim 561 arrived to hospital alone
+Victim 820 arrived to hospital alone
+Victim 437 arrived to hospital alone
+Victim 277 arrived to hospital alone
+Victim 509 arrived to hospital alone
+Victim 1096 arrived to hospital alone
+Victim 663 arrived to hospital alone
+Victim 513 arrived to hospital alone
+Victim 1100 arrived to hospital alone
+Victim 544 arrived to hospital alone
+Victim 429 arrived to hospital alone
+Victim 208 arrived to hospital alone
+Victim 263 arrived to hospital alone
+Victim 308 arrived to hospital alone
+Victim 454 arrived to hospital alone
+@@@@@@@@@ START REPORT #7 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:1
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 213 arrived to hospital alone
+Victim 1018 arrived to hospital alone
+Victim 251 arrived to hospital alone
+Victim 364 arrived to hospital alone
+Victim 340 arrived to hospital alone
+Victim 541 arrived to hospital alone
+Victim 1024 arrived to hospital alone
+Victim 366 arrived to hospital alone
+Victim 283 arrived to hospital alone
+Victim 388 arrived to hospital alone
+Victim 515 arrived to hospital alone
+Victim 855 arrived to hospital alone
+Victim 1008 arrived to hospital alone
+Victim 790 arrived to hospital alone
+Victim 1154 arrived to hospital alone
+Victim 446 arrived to hospital alone
+Victim 868 arrived to hospital alone
+Victim 780 arrived to hospital alone
+Victim 245 arrived to hospital alone
+Victim 1202 arrived to hospital alone
+Victim 451 arrived to hospital alone
+Victim 834 arrived to hospital alone
+Victim 349 arrived to hospital alone
+Victim 249 arrived to hospital alone
+Victim 1033 arrived to hospital alone
+Victim 1041 arrived to hospital alone
+Victim 916 arrived to hospital alone
+Victim 731 arrived to hospital alone
+Victim 539 arrived to hospital alone
+Victim 600 arrived to hospital alone
+Victim 368 arrived to hospital alone
+Victim 1158 arrived to hospital alone
+Victim 980 arrived to hospital alone
+Victim 510 arrived to hospital alone
+Victim 330 arrived to hospital alone
+Victim 796 arrived to hospital alone
+@@@@@@@@@ START REPORT #8 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:1
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 876 arrived to hospital alone
+Victim 1170 arrived to hospital alone
+Victim 816 arrived to hospital alone
+Victim 778 arrived to hospital alone
+Victim 1197 arrived to hospital alone
+Victim 491 arrived to hospital alone
+Victim 550 arrived to hospital alone
+Victim 799 arrived to hospital alone
+Victim 563 arrived to hospital alone
+Victim 995 arrived to hospital alone
+Victim 1051 arrived to hospital alone
+DMAT 1208 arrived to Hub hospital. Waiting for instructions.
+Victim 824 arrived to hospital alone
+Victim 278 arrived to hospital alone
+Victim 1103 arrived to hospital alone
+Victim 701 arrived to hospital alone
+Victim 902 arrived to hospital alone
+Victim 969 arrived to hospital alone
+Victim 971 arrived to hospital alone
+Victim 397 arrived to hospital alone
+Victim 650 arrived to hospital alone
+Victim 395 arrived to hospital alone
+Victim 630 arrived to hospital alone
+Victim 761 arrived to hospital alone
+Victim 818 arrived to hospital alone
+Victim 733 arrived to hospital alone
+Victim 281 arrived to hospital alone
+Victim 955 arrived to hospital alone
+Victim 434 arrived to hospital alone
+@@@@@@@@@ START REPORT #9 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:2
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 726 arrived to hospital alone
+Victim 1056 arrived to hospital alone
+Victim 607 arrived to hospital alone
+Victim 1054 arrived to hospital alone
+Victim 1090 arrived to hospital alone
+Victim 1176 arrived to hospital alone
+Victim 727 arrived to hospital alone
+Victim 927 arrived to hospital alone
+Victim 438 arrived to hospital alone
+Victim 794 arrived to hospital alone
+Victim 370 arrived to hospital alone
+Victim 533 arrived to hospital alone
+Victim 672 arrived to hospital alone
+Victim 1153 arrived to hospital alone
+Victim 542 arrived to hospital alone
+Victim 662 arrived to hospital alone
+Victim 534 arrived to hospital alone
+Victim 891 arrived to hospital alone
+Victim 718 arrived to hospital alone
+Victim 1187 arrived to hospital alone
+Victim 486 arrived to hospital alone
+Victim 1128 arrived to hospital alone
+Victim 755 arrived to hospital alone
+Victim 844 arrived to hospital alone
+Victim 1083 arrived to hospital alone
+DMAT 1209 arrived to Hub hospital. Waiting for instructions.
+Victim 266 arrived to hospital alone
+Victim 1015 arrived to hospital alone
+Victim 289 arrived to hospital alone
+Victim 702 arrived to hospital alone
+Victim 391 arrived to hospital alone
+Victim 546 arrived to hospital alone
+Victim 657 arrived to hospital alone
+@@@@@@@@@ START REPORT #10 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 961 arrived to hospital alone
+Victim 520 arrived to hospital alone
+Victim 214 arrived to hospital alone
+Victim 566 arrived to hospital alone
+Victim 1011 arrived to hospital alone
+Victim 476 arrived to hospital alone
+Victim 819 arrived to hospital alone
+Victim 741 arrived to hospital alone
+Victim 736 arrived to hospital alone
+Victim 1088 arrived to hospital alone
+Victim 358 arrived to hospital alone
+Victim 430 arrived to hospital alone
+Victim 519 arrived to hospital alone
+Victim 218 arrived to hospital alone
+Victim 583 arrived to hospital alone
+Victim 732 arrived to hospital alone
+Victim 416 arrived to hospital alone
+Victim 465 arrived to hospital alone
+Victim 836 arrived to hospital alone
+Victim 966 arrived to hospital alone
+@@@@@@@@@ START REPORT #11 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 1108 arrived to hospital alone
+Victim 363 arrived to hospital alone
+Victim 417 arrived to hospital alone
+Victim 878 arrived to hospital alone
+Victim 1164 arrived to hospital alone
+Victim 883 arrived to hospital alone
+Victim 978 arrived to hospital alone
+Victim 942 arrived to hospital alone
+Victim 261 arrived to hospital alone
+Victim 1050 arrived to hospital alone
+Victim 622 arrived to hospital alone
+Victim 1190 arrived to hospital alone
+Victim 505 arrived to hospital alone
+Victim 1147 arrived to hospital alone
+Victim 633 arrived to hospital alone
+Victim 498 arrived to hospital alone
+Victim 601 arrived to hospital alone
+Victim 772 arrived to hospital alone
+Victim 956 arrived to hospital alone
+Victim 353 arrived to hospital alone
+Victim 653 arrived to hospital alone
+Victim 496 arrived to hospital alone
+Victim 1183 arrived to hospital alone
+Victim 899 arrived to hospital alone
+Victim 470 arrived to hospital alone
+@@@@@@@@@ START REPORT #12 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 218 arrived to hospital alone
+Victim 492 arrived to hospital alone
+Victim 1191 arrived to hospital alone
+Victim 502 arrived to hospital alone
+Victim 728 arrived to hospital alone
+Victim 853 arrived to hospital alone
+Victim 332 arrived to hospital alone
+Victim 1117 arrived to hospital alone
+Victim 585 arrived to hospital alone
+Victim 777 arrived to hospital alone
+Victim 784 arrived to hospital alone
+Victim 888 arrived to hospital alone
+Victim 1120 arrived to hospital alone
+Victim 411 arrived to hospital alone
+Victim 250 arrived to hospital alone
+Victim 237 arrived to hospital alone
+Victim 369 arrived to hospital alone
+Victim 623 arrived to hospital alone
+Victim 676 arrived to hospital alone
+Victim 431 arrived to hospital alone
+Victim 981 arrived to hospital alone
+Victim 1005 arrived to hospital alone
+Victim 939 arrived to hospital alone
+Victim 311 arrived to hospital alone
+Victim 488 arrived to hospital alone
+Victim 360 arrived to hospital alone
+Victim 594 arrived to hospital alone
+Victim 602 arrived to hospital alone
+Victim 227 arrived to hospital alone
+Victim 351 arrived to hospital alone
+Victim 933 arrived to hospital alone
+@@@@@@@@@ START REPORT #13 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 3
+Victims Red          : 1
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 346 arrived to hospital alone
+Victim 553 arrived to hospital alone
+Victim 671 arrived to hospital alone
+Victim 825 arrived to hospital alone
+Victim 472 arrived to hospital alone
+Victim 708 arrived to hospital alone
+Victim 938 arrived to hospital alone
+Victim 1025 arrived to hospital alone
+Victim 1104 arrived to hospital alone
+Victim 450 arrived to hospital alone
+Victim 466 arrived to hospital alone
+Victim 1038 arrived to hospital alone
+Victim 221 arrived to hospital alone
+Victim 1010 arrived to hospital alone
+Victim 959 arrived to hospital alone
+Victim 396 arrived to hospital alone
+Victim 860 arrived to hospital alone
+Victim 683 arrived to hospital alone
+Victim 737 arrived to hospital alone
+Victim 319 arrived to hospital alone
+Victim 408 arrived to hospital alone
+Victim 635 arrived to hospital alone
+Victim 1093 arrived to hospital alone
+Victim 773 arrived to hospital alone
+Victim 1181 arrived to hospital alone
+Victim 506 arrived to hospital alone
+Victim 1201 arrived to hospital alone
+Victim 744 arrived to hospital alone
+Victim 949 arrived to hospital alone
+Victim 297 arrived to hospital alone
+Victim 1040 arrived to hospital alone
+Victim 661 arrived to hospital alone
+@@@@@@@@@ START REPORT #14 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 455 arrived to hospital alone
+Victim 1044 arrived to hospital alone
+Victim 535 arrived to hospital alone
+Victim 941 arrived to hospital alone
+Victim 1009 arrived to hospital alone
+Victim 518 arrived to hospital alone
+Victim 343 arrived to hospital alone
+Victim 1055 arrived to hospital alone
+Victim 1182 arrived to hospital alone
+Victim 448 arrived to hospital alone
+Victim 619 arrived to hospital alone
+Victim 246 arrived to hospital alone
+Victim 1148 arrived to hospital alone
+Victim 795 arrived to hospital alone
+Victim 271 arrived to hospital alone
+Victim 797 arrived to hospital alone
+Victim 1107 arrived to hospital alone
+Victim 783 arrived to hospital alone
+Victim 854 arrived to hospital alone
+Victim 704 arrived to hospital alone
+Victim 946 arrived to hospital alone
+@@@@@@@@@ START REPORT #15 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 221 arrived to hospital alone
+Victim 738 arrived to hospital alone
+Victim 675 arrived to hospital alone
+Victim 1130 arrived to hospital alone
+Victim 293 arrived to hospital alone
+Victim 827 arrived to hospital alone
+Victim 1166 arrived to hospital alone
+Victim 419 arrived to hospital alone
+Victim 651 arrived to hospital alone
+Victim 244 arrived to hospital alone
+Victim 359 arrived to hospital alone
+Victim 538 arrived to hospital alone
+Victim 684 arrived to hospital alone
+Victim 562 arrived to hospital alone
+Victim 398 arrived to hospital alone
+Victim 1061 arrived to hospital alone
+Victim 333 arrived to hospital alone
+Victim 557 arrived to hospital alone
+Victim 865 arrived to hospital alone
+Victim 1101 arrived to hospital alone
+Victim 993 arrived to hospital alone
+Victim 1063 arrived to hospital alone
+Victim 976 arrived to hospital alone
+@@@@@@@@@ START REPORT #16 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 222 arrived to hospital alone
+Victim 345 arrived to hospital alone
+Victim 748 arrived to hospital alone
+Victim 427 arrived to hospital alone
+Victim 730 arrived to hospital alone
+Victim 1189 arrived to hospital alone
+Victim 931 arrived to hospital alone
+Victim 872 arrived to hospital alone
+Victim 896 arrived to hospital alone
+Victim 414 arrived to hospital alone
+Victim 1081 arrived to hospital alone
+Victim 791 arrived to hospital alone
+Victim 673 arrived to hospital alone
+Victim 756 arrived to hospital alone
+Victim 238 arrived to hospital alone
+Victim 734 arrived to hospital alone
+Victim 743 arrived to hospital alone
+Victim 1179 arrived to hospital alone
+Victim 471 arrived to hospital alone
+Victim 749 arrived to hospital alone
+Victim 1194 arrived to hospital alone
+Victim 399 arrived to hospital alone
+Victim 320 arrived to hospital alone
+Victim 468 arrived to hospital alone
+Victim 1028 arrived to hospital alone
+Victim 711 arrived to hospital alone
+Victim 1098 arrived to hospital alone
+Victim 301 arrived to hospital alone
+@@@@@@@@@ START REPORT #17 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 745 arrived to hospital alone
+Victim 480 arrived to hospital alone
+Victim 774 arrived to hospital alone
+Victim 1047 arrived to hospital alone
+Victim 828 arrived to hospital alone
+Victim 1022 arrived to hospital alone
+Victim 848 arrived to hospital alone
+Victim 1084 arrived to hospital alone
+Victim 499 arrived to hospital alone
+Victim 894 arrived to hospital alone
+Victim 1000 arrived to hospital alone
+Victim 611 arrived to hospital alone
+Victim 1146 arrived to hospital alone
+Victim 694 arrived to hospital alone
+Victim 616 arrived to hospital alone
+Victim 1135 arrived to hospital alone
+Victim 1068 arrived to hospital alone
+Victim 298 arrived to hospital alone
+Victim 336 arrived to hospital alone
+Victim 405 arrived to hospital alone
+Victim 521 arrived to hospital alone
+Victim 540 arrived to hospital alone
+Victim 1053 arrived to hospital alone
+Victim 617 arrived to hospital alone
+Victim 1082 arrived to hospital alone
+@@@@@@@@@ START REPORT #18 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 815 arrived to hospital alone
+Victim 504 arrived to hospital alone
+Victim 258 arrived to hospital alone
+Victim 523 arrived to hospital alone
+Victim 706 arrived to hospital alone
+Victim 226 arrived to hospital alone
+Victim 841 arrived to hospital alone
+Victim 216 arrived to hospital alone
+Victim 1186 arrived to hospital alone
+Victim 571 arrived to hospital alone
+Victim 273 arrived to hospital alone
+Victim 1140 arrived to hospital alone
+Victim 911 arrived to hospital alone
+Victim 1118 arrived to hospital alone
+Victim 852 arrived to hospital alone
+Victim 817 arrived to hospital alone
+Victim 696 arrived to hospital alone
+Victim 1106 arrived to hospital alone
+Victim 763 arrived to hospital alone
+Victim 379 arrived to hospital alone
+@@@@@@@@@ START REPORT #19 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 753 arrived to hospital alone
+Victim 766 arrived to hospital alone
+Victim 826 arrived to hospital alone
+Victim 1145 arrived to hospital alone
+Victim 945 arrived to hospital alone
+Victim 850 arrived to hospital alone
+Victim 802 arrived to hospital alone
+Victim 1013 arrived to hospital alone
+Victim 781 arrived to hospital alone
+Victim 1043 arrived to hospital alone
+Victim 305 arrived to hospital alone
+Victim 1019 arrived to hospital alone
+Victim 1072 arrived to hospital alone
+Victim 1192 arrived to hospital alone
+Victim 1198 arrived to hospital alone
+Victim 1173 arrived to hospital alone
+Victim 1175 arrived to hospital alone
+Victim 1136 arrived to hospital alone
+Victim 511 arrived to hospital alone
+Victim 1188 arrived to hospital alone
+DMAT 1211 arrived to Hub hospital. Waiting for instructions.
+Victim 612 arrived to hospital alone
+Victim 211 arrived to hospital alone
+Victim 288 arrived to hospital alone
+@@@@@@@@@ START REPORT #20 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 226 arrived to hospital alone
+Victim 339 arrived to hospital alone
+Victim 372 arrived to hospital alone
+Victim 1157 arrived to hospital alone
+Victim 229 arrived to hospital alone
+Victim 1119 arrived to hospital alone
+Victim 664 arrived to hospital alone
+Victim 643 arrived to hospital alone
+Victim 254 arrived to hospital alone
+Victim 291 arrived to hospital alone
+Victim 447 arrived to hospital alone
+Victim 787 arrived to hospital alone
+Victim 685 arrived to hospital alone
+Victim 555 arrived to hospital alone
+Victim 1160 arrived to hospital alone
+Victim 665 arrived to hospital alone
+Victim 1075 arrived to hospital alone
+Victim 678 arrived to hospital alone
+Victim 1017 arrived to hospital alone
+Victim 798 arrived to hospital alone
+Victim 1115 arrived to hospital alone
+Victim 552 arrived to hospital alone
+Victim 869 arrived to hospital alone
+Victim 1065 arrived to hospital alone
+Victim 1095 arrived to hospital alone
+Victim 248 arrived to hospital alone
+Victim 501 arrived to hospital alone
+Victim 286 arrived to hospital alone
+Victim 290 arrived to hospital alone
+Victim 483 arrived to hospital alone
+@@@@@@@@@ START REPORT #21 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 227 arrived to hospital alone
+Victim 904 arrived to hospital alone
+Victim 1112 arrived to hospital alone
+Victim 410 arrived to hospital alone
+Victim 735 arrived to hospital alone
+Victim 1149 arrived to hospital alone
+Victim 564 arrived to hospital alone
+Victim 1132 arrived to hospital alone
+Victim 1085 arrived to hospital alone
+Victim 846 arrived to hospital alone
+Victim 641 arrived to hospital alone
+Victim 385 arrived to hospital alone
+Victim 996 arrived to hospital alone
+Victim 337 arrived to hospital alone
+Victim 812 arrived to hospital alone
+Victim 1016 arrived to hospital alone
+Victim 776 arrived to hospital alone
+Victim 252 arrived to hospital alone
+Victim 856 arrived to hospital alone
+Victim 979 arrived to hospital alone
+Victim 1151 arrived to hospital alone
+Victim 723 arrived to hospital alone
+Victim 884 arrived to hospital alone
+Victim 485 arrived to hospital alone
+@@@@@@@@@ START REPORT #22 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 228 arrived to hospital alone
+Victim 1109 arrived to hospital alone
+Victim 930 arrived to hospital alone
+Victim 987 arrived to hospital alone
+Victim 275 arrived to hospital alone
+Victim 1042 arrived to hospital alone
+Victim 453 arrived to hospital alone
+Victim 1206 arrived to hospital alone
+Victim 225 arrived to hospital alone
+Victim 1069 arrived to hospital alone
+Victim 467 arrived to hospital alone
+Victim 926 arrived to hospital alone
+Victim 1052 arrived to hospital alone
+Victim 424 arrived to hospital alone
+Victim 1021 arrived to hospital alone
+Victim 808 arrived to hospital alone
+Victim 526 arrived to hospital alone
+Victim 1049 arrived to hospital alone
+Victim 1144 arrived to hospital alone
+Victim 666 arrived to hospital alone
+Victim 285 arrived to hospital alone
+Victim 464 arrived to hospital alone
+Victim 579 arrived to hospital alone
+Victim 1137 arrived to hospital alone
+Victim 357 arrived to hospital alone
+Victim 1143 arrived to hospital alone
+@@@@@@@@@ START REPORT #23 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 229 arrived to hospital alone
+Victim 867 arrived to hospital alone
+Victim 1134 arrived to hospital alone
+Victim 217 arrived to hospital alone
+Victim 691 arrived to hospital alone
+Victim 754 arrived to hospital alone
+Victim 327 arrived to hospital alone
+Victim 1012 arrived to hospital alone
+Victim 620 arrived to hospital alone
+Victim 1094 arrived to hospital alone
+Victim 967 arrived to hospital alone
+Victim 543 arrived to hospital alone
+Victim 970 arrived to hospital alone
+Victim 913 arrived to hospital alone
+@@@@@@@@@ START REPORT #24 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 230 arrived to hospital alone
+Victim 710 arrived to hospital alone
+Victim 317 arrived to hospital alone
+Victim 1193 arrived to hospital alone
+Victim 279 arrived to hospital alone
+Victim 325 arrived to hospital alone
+Victim 493 arrived to hospital alone
+Victim 779 arrived to hospital alone
+Victim 905 arrived to hospital alone
+Victim 361 arrived to hospital alone
+Victim 452 arrived to hospital alone
+Victim 280 arrived to hospital alone
+Victim 832 arrived to hospital alone
+Victim 1203 arrived to hospital alone
+Victim 890 arrived to hospital alone
+Victim 323 arrived to hospital alone
+Victim 822 arrived to hospital alone
+Victim 324 arrived to hospital alone
+Victim 847 arrived to hospital alone
+Victim 241 arrived to hospital alone
+Victim 807 arrived to hospital alone
+Victim 342 arrived to hospital alone
+Victim 574 arrived to hospital alone
+Victim 1133 arrived to hospital alone
+Victim 632 arrived to hospital alone
+@@@@@@@@@ START REPORT #1 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 1
+Victims Red          : 0
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 674 arrived to hospital alone
+Victim 573 arrived to hospital alone
+Victim 350 arrived to hospital alone
+Victim 677 arrived to hospital alone
+Victim 554 arrived to hospital alone
+Victim 568 arrived to hospital alone
+Victim 1066 arrived to hospital alone
+Victim 984 arrived to hospital alone
+Victim 624 arrived to hospital alone
+@@@@@@@@@ START REPORT #2 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 1
+Victims Red          : 0
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+DMAT 1207 arrived to Hub hospital. Waiting for instructions.
+Victim 1029 arrived to hospital alone
+Victim 373 arrived to hospital alone
+Victim 303 arrived to hospital alone
+Victim 1006 arrived to hospital alone
+Victim 1087 arrived to hospital alone
+Victim 1172 arrived to hospital alone
+Victim 908 arrived to hospital alone
+Victim 707 arrived to hospital alone
+Victim 394 arrived to hospital alone
+Victim 307 arrived to hospital alone
+@@@@@@@@@ START REPORT #3 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 1
+Victims Red          : 0
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:1
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 757 arrived to hospital alone
+Victim 1074 arrived to hospital alone
+Victim 1099 arrived to hospital alone
+Victim 1086 arrived to hospital alone
+Victim 1121 arrived to hospital alone
+Victim 282 arrived to hospital alone
+Victim 628 arrived to hospital alone
+Victim 309 arrived to hospital alone
+Victim 392 arrived to hospital alone
+Victim 759 arrived to hospital alone
+Victim 866 arrived to hospital alone
+Victim 805 arrived to hospital alone
+Victim 316 arrived to hospital alone
+Victim 1126 arrived to hospital alone
+Victim 771 arrived to hospital alone
+Victim 588 arrived to hospital alone
+Victim 1064 arrived to hospital alone
+Victim 912 arrived to hospital alone
+Victim 609 arrived to hospital alone
+@@@@@@@@@ START REPORT #4 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:1
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 954 arrived to hospital alone
+Victim 695 arrived to hospital alone
+Victim 403 arrived to hospital alone
+Victim 352 arrived to hospital alone
+Victim 982 arrived to hospital alone
+Victim 381 arrived to hospital alone
+Victim 1127 arrived to hospital alone
+Victim 228 arrived to hospital alone
+Victim 801 arrived to hospital alone
+Victim 1077 arrived to hospital alone
+Victim 962 arrived to hospital alone
+Victim 907 arrived to hospital alone
+Victim 565 arrived to hospital alone
+Victim 973 arrived to hospital alone
+Victim 576 arrived to hospital alone
+Victim 529 arrived to hospital alone
+Victim 713 arrived to hospital alone
+Victim 306 arrived to hospital alone
+Victim 407 arrived to hospital alone
+@@@@@@@@@ START REPORT #5 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:1
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 975 arrived to hospital alone
+Victim 1205 arrived to hospital alone
+Victim 243 arrived to hospital alone
+Victim 514 arrived to hospital alone
+Victim 230 arrived to hospital alone
+Victim 578 arrived to hospital alone
+Victim 821 arrived to hospital alone
+Victim 934 arrived to hospital alone
+Victim 1035 arrived to hospital alone
+Victim 292 arrived to hospital alone
+Victim 460 arrived to hospital alone
+Victim 803 arrived to hospital alone
+Victim 857 arrived to hospital alone
+Victim 418 arrived to hospital alone
+Victim 1007 arrived to hospital alone
+Victim 689 arrived to hospital alone
+Victim 1034 arrived to hospital alone
+Victim 928 arrived to hospital alone
+Victim 344 arrived to hospital alone
+Victim 887 arrived to hospital alone
+Victim 870 arrived to hospital alone
+Victim 775 arrived to hospital alone
+Victim 222 arrived to hospital alone
+Victim 409 arrived to hospital alone
+@@@@@@@@@ START REPORT #6 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:1
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 862 arrived to hospital alone
+Victim 940 arrived to hospital alone
+Victim 770 arrived to hospital alone
+Victim 1058 arrived to hospital alone
+Victim 646 arrived to hospital alone
+Victim 740 arrived to hospital alone
+Victim 767 arrived to hospital alone
+Victim 213 arrived to hospital alone
+Victim 255 arrived to hospital alone
+Victim 348 arrived to hospital alone
+Victim 1014 arrived to hospital alone
+Victim 1177 arrived to hospital alone
+Victim 833 arrived to hospital alone
+Victim 264 arrived to hospital alone
+Victim 329 arrived to hospital alone
+Victim 1045 arrived to hospital alone
+Victim 570 arrived to hospital alone
+Victim 561 arrived to hospital alone
+Victim 820 arrived to hospital alone
+Victim 437 arrived to hospital alone
+Victim 277 arrived to hospital alone
+Victim 509 arrived to hospital alone
+Victim 1096 arrived to hospital alone
+Victim 663 arrived to hospital alone
+Victim 513 arrived to hospital alone
+Victim 1100 arrived to hospital alone
+Victim 544 arrived to hospital alone
+Victim 429 arrived to hospital alone
+Victim 208 arrived to hospital alone
+Victim 263 arrived to hospital alone
+Victim 308 arrived to hospital alone
+Victim 454 arrived to hospital alone
+@@@@@@@@@ START REPORT #7 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:1
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 1018 arrived to hospital alone
+Victim 213 arrived to hospital alone
+Victim 251 arrived to hospital alone
+Victim 364 arrived to hospital alone
+Victim 340 arrived to hospital alone
+Victim 541 arrived to hospital alone
+Victim 1024 arrived to hospital alone
+Victim 366 arrived to hospital alone
+Victim 283 arrived to hospital alone
+Victim 388 arrived to hospital alone
+Victim 855 arrived to hospital alone
+Victim 515 arrived to hospital alone
+Victim 1008 arrived to hospital alone
+Victim 790 arrived to hospital alone
+Victim 1154 arrived to hospital alone
+Victim 446 arrived to hospital alone
+Victim 868 arrived to hospital alone
+Victim 780 arrived to hospital alone
+Victim 245 arrived to hospital alone
+Victim 1202 arrived to hospital alone
+Victim 451 arrived to hospital alone
+Victim 834 arrived to hospital alone
+Victim 349 arrived to hospital alone
+Victim 1033 arrived to hospital alone
+Victim 249 arrived to hospital alone
+Victim 1041 arrived to hospital alone
+Victim 916 arrived to hospital alone
+Victim 731 arrived to hospital alone
+Victim 539 arrived to hospital alone
+Victim 600 arrived to hospital alone
+Victim 368 arrived to hospital alone
+Victim 1158 arrived to hospital alone
+Victim 980 arrived to hospital alone
+Victim 510 arrived to hospital alone
+Victim 796 arrived to hospital alone
+Victim 330 arrived to hospital alone
+@@@@@@@@@ START REPORT #8 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:1
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 876 arrived to hospital alone
+Victim 1170 arrived to hospital alone
+Victim 816 arrived to hospital alone
+Victim 778 arrived to hospital alone
+Victim 1197 arrived to hospital alone
+Victim 491 arrived to hospital alone
+Victim 550 arrived to hospital alone
+Victim 799 arrived to hospital alone
+Victim 563 arrived to hospital alone
+Victim 995 arrived to hospital alone
+Victim 1051 arrived to hospital alone
+DMAT 1208 arrived to Hub hospital. Waiting for instructions.
+Victim 824 arrived to hospital alone
+Victim 278 arrived to hospital alone
+Victim 1103 arrived to hospital alone
+Victim 701 arrived to hospital alone
+Victim 902 arrived to hospital alone
+Victim 969 arrived to hospital alone
+Victim 971 arrived to hospital alone
+Victim 397 arrived to hospital alone
+Victim 650 arrived to hospital alone
+Victim 395 arrived to hospital alone
+Victim 630 arrived to hospital alone
+Victim 761 arrived to hospital alone
+Victim 818 arrived to hospital alone
+Victim 733 arrived to hospital alone
+Victim 281 arrived to hospital alone
+Victim 955 arrived to hospital alone
+Victim 434 arrived to hospital alone
+@@@@@@@@@ START REPORT #9 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:2
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 726 arrived to hospital alone
+Victim 607 arrived to hospital alone
+Victim 1056 arrived to hospital alone
+Victim 1090 arrived to hospital alone
+Victim 1054 arrived to hospital alone
+Victim 1176 arrived to hospital alone
+Victim 727 arrived to hospital alone
+Victim 927 arrived to hospital alone
+Victim 438 arrived to hospital alone
+Victim 794 arrived to hospital alone
+Victim 370 arrived to hospital alone
+Victim 533 arrived to hospital alone
+Victim 672 arrived to hospital alone
+Victim 1153 arrived to hospital alone
+Victim 542 arrived to hospital alone
+Victim 662 arrived to hospital alone
+Victim 534 arrived to hospital alone
+Victim 891 arrived to hospital alone
+Victim 1187 arrived to hospital alone
+Victim 718 arrived to hospital alone
+Victim 486 arrived to hospital alone
+Victim 1128 arrived to hospital alone
+Victim 755 arrived to hospital alone
+Victim 844 arrived to hospital alone
+Victim 1083 arrived to hospital alone
+DMAT 1209 arrived to Hub hospital. Waiting for instructions.
+Victim 266 arrived to hospital alone
+Victim 1015 arrived to hospital alone
+Victim 289 arrived to hospital alone
+Victim 702 arrived to hospital alone
+Victim 391 arrived to hospital alone
+Victim 546 arrived to hospital alone
+Victim 657 arrived to hospital alone
+@@@@@@@@@ START REPORT #10 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 961 arrived to hospital alone
+Victim 520 arrived to hospital alone
+Victim 214 arrived to hospital alone
+Victim 566 arrived to hospital alone
+Victim 1011 arrived to hospital alone
+Victim 476 arrived to hospital alone
+Victim 819 arrived to hospital alone
+Victim 741 arrived to hospital alone
+Victim 736 arrived to hospital alone
+Victim 1088 arrived to hospital alone
+Victim 358 arrived to hospital alone
+Victim 430 arrived to hospital alone
+Victim 519 arrived to hospital alone
+Victim 218 arrived to hospital alone
+Victim 583 arrived to hospital alone
+Victim 732 arrived to hospital alone
+Victim 416 arrived to hospital alone
+Victim 465 arrived to hospital alone
+Victim 836 arrived to hospital alone
+Victim 966 arrived to hospital alone
+@@@@@@@@@ START REPORT #11 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 1108 arrived to hospital alone
+Victim 363 arrived to hospital alone
+Victim 417 arrived to hospital alone
+Victim 878 arrived to hospital alone
+Victim 1164 arrived to hospital alone
+Victim 883 arrived to hospital alone
+Victim 978 arrived to hospital alone
+Victim 942 arrived to hospital alone
+Victim 261 arrived to hospital alone
+Victim 1050 arrived to hospital alone
+Victim 622 arrived to hospital alone
+Victim 1190 arrived to hospital alone
+Victim 505 arrived to hospital alone
+Victim 1147 arrived to hospital alone
+Victim 633 arrived to hospital alone
+Victim 498 arrived to hospital alone
+Victim 601 arrived to hospital alone
+Victim 772 arrived to hospital alone
+Victim 956 arrived to hospital alone
+Victim 353 arrived to hospital alone
+Victim 653 arrived to hospital alone
+Victim 496 arrived to hospital alone
+Victim 899 arrived to hospital alone
+Victim 1183 arrived to hospital alone
+Victim 470 arrived to hospital alone
+Victim 492 arrived to hospital alone
+@@@@@@@@@ START REPORT #12 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 1
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 218 arrived to hospital alone
+Victim 1191 arrived to hospital alone
+Victim 502 arrived to hospital alone
+Victim 728 arrived to hospital alone
+Victim 853 arrived to hospital alone
+Victim 1117 arrived to hospital alone
+Victim 332 arrived to hospital alone
+Victim 585 arrived to hospital alone
+Victim 888 arrived to hospital alone
+Victim 777 arrived to hospital alone
+Victim 784 arrived to hospital alone
+Victim 1120 arrived to hospital alone
+Victim 411 arrived to hospital alone
+Victim 250 arrived to hospital alone
+Victim 369 arrived to hospital alone
+Victim 237 arrived to hospital alone
+Victim 623 arrived to hospital alone
+Victim 676 arrived to hospital alone
+Victim 431 arrived to hospital alone
+Victim 1005 arrived to hospital alone
+Victim 981 arrived to hospital alone
+Victim 939 arrived to hospital alone
+Victim 311 arrived to hospital alone
+Victim 488 arrived to hospital alone
+Victim 360 arrived to hospital alone
+Victim 594 arrived to hospital alone
+Victim 602 arrived to hospital alone
+Victim 227 arrived to hospital alone
+Victim 351 arrived to hospital alone
+Victim 933 arrived to hospital alone
+@@@@@@@@@ START REPORT #13 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 3
+Victims Red          : 1
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 346 arrived to hospital alone
+Victim 553 arrived to hospital alone
+Victim 671 arrived to hospital alone
+Victim 825 arrived to hospital alone
+Victim 472 arrived to hospital alone
+Victim 708 arrived to hospital alone
+Victim 938 arrived to hospital alone
+Victim 1025 arrived to hospital alone
+Victim 1104 arrived to hospital alone
+Victim 450 arrived to hospital alone
+Victim 466 arrived to hospital alone
+Victim 1038 arrived to hospital alone
+Victim 221 arrived to hospital alone
+Victim 1010 arrived to hospital alone
+Victim 396 arrived to hospital alone
+Victim 959 arrived to hospital alone
+Victim 683 arrived to hospital alone
+Victim 860 arrived to hospital alone
+Victim 737 arrived to hospital alone
+Victim 319 arrived to hospital alone
+Victim 408 arrived to hospital alone
+Victim 635 arrived to hospital alone
+Victim 1093 arrived to hospital alone
+Victim 1181 arrived to hospital alone
+Victim 773 arrived to hospital alone
+Victim 506 arrived to hospital alone
+Victim 1201 arrived to hospital alone
+Victim 744 arrived to hospital alone
+Victim 297 arrived to hospital alone
+Victim 949 arrived to hospital alone
+Victim 1040 arrived to hospital alone
+Victim 661 arrived to hospital alone
+@@@@@@@@@ START REPORT #14 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 455 arrived to hospital alone
+Victim 1044 arrived to hospital alone
+Victim 535 arrived to hospital alone
+Victim 941 arrived to hospital alone
+Victim 1009 arrived to hospital alone
+Victim 518 arrived to hospital alone
+Victim 343 arrived to hospital alone
+Victim 1055 arrived to hospital alone
+Victim 448 arrived to hospital alone
+Victim 1182 arrived to hospital alone
+Victim 619 arrived to hospital alone
+Victim 246 arrived to hospital alone
+Victim 1148 arrived to hospital alone
+Victim 795 arrived to hospital alone
+Victim 271 arrived to hospital alone
+Victim 797 arrived to hospital alone
+Victim 1107 arrived to hospital alone
+Victim 783 arrived to hospital alone
+Victim 854 arrived to hospital alone
+Victim 704 arrived to hospital alone
+Victim 946 arrived to hospital alone
+@@@@@@@@@ START REPORT #15 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 221 arrived to hospital alone
+Victim 738 arrived to hospital alone
+Victim 675 arrived to hospital alone
+Victim 1130 arrived to hospital alone
+Victim 293 arrived to hospital alone
+Victim 1166 arrived to hospital alone
+Victim 827 arrived to hospital alone
+Victim 419 arrived to hospital alone
+Victim 651 arrived to hospital alone
+Victim 244 arrived to hospital alone
+Victim 359 arrived to hospital alone
+Victim 538 arrived to hospital alone
+Victim 684 arrived to hospital alone
+Victim 562 arrived to hospital alone
+Victim 398 arrived to hospital alone
+Victim 1061 arrived to hospital alone
+Victim 333 arrived to hospital alone
+Victim 557 arrived to hospital alone
+Victim 865 arrived to hospital alone
+Victim 1101 arrived to hospital alone
+Victim 993 arrived to hospital alone
+Victim 1063 arrived to hospital alone
+Victim 976 arrived to hospital alone
+@@@@@@@@@ START REPORT #16 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 222 arrived to hospital alone
+Victim 345 arrived to hospital alone
+Victim 748 arrived to hospital alone
+Victim 427 arrived to hospital alone
+Victim 730 arrived to hospital alone
+Victim 1189 arrived to hospital alone
+Victim 931 arrived to hospital alone
+Victim 872 arrived to hospital alone
+Victim 896 arrived to hospital alone
+Victim 414 arrived to hospital alone
+Victim 1081 arrived to hospital alone
+Victim 791 arrived to hospital alone
+Victim 673 arrived to hospital alone
+Victim 756 arrived to hospital alone
+Victim 238 arrived to hospital alone
+Victim 734 arrived to hospital alone
+Victim 743 arrived to hospital alone
+Victim 1179 arrived to hospital alone
+Victim 471 arrived to hospital alone
+Victim 749 arrived to hospital alone
+Victim 1194 arrived to hospital alone
+Victim 399 arrived to hospital alone
+Victim 320 arrived to hospital alone
+Victim 468 arrived to hospital alone
+Victim 1028 arrived to hospital alone
+Victim 711 arrived to hospital alone
+Victim 1098 arrived to hospital alone
+Victim 301 arrived to hospital alone
+@@@@@@@@@ START REPORT #17 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 745 arrived to hospital alone
+Victim 480 arrived to hospital alone
+Victim 774 arrived to hospital alone
+Victim 1047 arrived to hospital alone
+Victim 828 arrived to hospital alone
+Victim 1022 arrived to hospital alone
+Victim 848 arrived to hospital alone
+Victim 1084 arrived to hospital alone
+Victim 499 arrived to hospital alone
+Victim 894 arrived to hospital alone
+Victim 1000 arrived to hospital alone
+Victim 611 arrived to hospital alone
+Victim 1146 arrived to hospital alone
+Victim 694 arrived to hospital alone
+Victim 616 arrived to hospital alone
+Victim 1135 arrived to hospital alone
+Victim 1068 arrived to hospital alone
+Victim 298 arrived to hospital alone
+Victim 336 arrived to hospital alone
+Victim 405 arrived to hospital alone
+Victim 521 arrived to hospital alone
+Victim 540 arrived to hospital alone
+Victim 1053 arrived to hospital alone
+Victim 617 arrived to hospital alone
+Victim 1082 arrived to hospital alone
+Victim 815 arrived to hospital alone
+@@@@@@@@@ START REPORT #18 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 504 arrived to hospital alone
+Victim 258 arrived to hospital alone
+Victim 523 arrived to hospital alone
+Victim 706 arrived to hospital alone
+Victim 226 arrived to hospital alone
+Victim 841 arrived to hospital alone
+Victim 216 arrived to hospital alone
+Victim 1186 arrived to hospital alone
+Victim 571 arrived to hospital alone
+Victim 273 arrived to hospital alone
+Victim 1140 arrived to hospital alone
+Victim 911 arrived to hospital alone
+Victim 1118 arrived to hospital alone
+Victim 852 arrived to hospital alone
+Victim 817 arrived to hospital alone
+Victim 696 arrived to hospital alone
+Victim 1106 arrived to hospital alone
+Victim 763 arrived to hospital alone
+Victim 379 arrived to hospital alone
+@@@@@@@@@ START REPORT #19 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:3
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 753 arrived to hospital alone
+Victim 766 arrived to hospital alone
+Victim 826 arrived to hospital alone
+Victim 1145 arrived to hospital alone
+Victim 945 arrived to hospital alone
+Victim 850 arrived to hospital alone
+Victim 802 arrived to hospital alone
+Victim 1013 arrived to hospital alone
+Victim 781 arrived to hospital alone
+Victim 1043 arrived to hospital alone
+Victim 305 arrived to hospital alone
+Victim 1019 arrived to hospital alone
+Victim 1072 arrived to hospital alone
+Victim 1192 arrived to hospital alone
+Victim 1173 arrived to hospital alone
+Victim 1198 arrived to hospital alone
+Victim 1136 arrived to hospital alone
+Victim 1175 arrived to hospital alone
+Victim 511 arrived to hospital alone
+Victim 1188 arrived to hospital alone
+DMAT 1211 arrived to Hub hospital. Waiting for instructions.
+Victim 612 arrived to hospital alone
+Victim 211 arrived to hospital alone
+Victim 288 arrived to hospital alone
+Victim 339 arrived to hospital alone
+@@@@@@@@@ START REPORT #20 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 226 arrived to hospital alone
+Victim 372 arrived to hospital alone
+Victim 1157 arrived to hospital alone
+Victim 229 arrived to hospital alone
+Victim 1119 arrived to hospital alone
+Victim 664 arrived to hospital alone
+Victim 643 arrived to hospital alone
+Victim 254 arrived to hospital alone
+Victim 291 arrived to hospital alone
+Victim 447 arrived to hospital alone
+Victim 787 arrived to hospital alone
+Victim 685 arrived to hospital alone
+Victim 555 arrived to hospital alone
+Victim 1160 arrived to hospital alone
+Victim 665 arrived to hospital alone
+Victim 1075 arrived to hospital alone
+Victim 1017 arrived to hospital alone
+Victim 678 arrived to hospital alone
+Victim 798 arrived to hospital alone
+Victim 1115 arrived to hospital alone
+Victim 552 arrived to hospital alone
+Victim 869 arrived to hospital alone
+Victim 1065 arrived to hospital alone
+Victim 1095 arrived to hospital alone
+Victim 248 arrived to hospital alone
+Victim 501 arrived to hospital alone
+Victim 286 arrived to hospital alone
+Victim 290 arrived to hospital alone
+Victim 483 arrived to hospital alone
+@@@@@@@@@ START REPORT #21 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 227 arrived to hospital alone
+Victim 904 arrived to hospital alone
+Victim 1112 arrived to hospital alone
+Victim 410 arrived to hospital alone
+Victim 735 arrived to hospital alone
+Victim 1149 arrived to hospital alone
+Victim 564 arrived to hospital alone
+Victim 1132 arrived to hospital alone
+Victim 1085 arrived to hospital alone
+Victim 846 arrived to hospital alone
+Victim 641 arrived to hospital alone
+Victim 385 arrived to hospital alone
+Victim 996 arrived to hospital alone
+Victim 337 arrived to hospital alone
+Victim 812 arrived to hospital alone
+Victim 1016 arrived to hospital alone
+Victim 776 arrived to hospital alone
+Victim 252 arrived to hospital alone
+Victim 856 arrived to hospital alone
+Victim 1151 arrived to hospital alone
+Victim 979 arrived to hospital alone
+Victim 723 arrived to hospital alone
+Victim 884 arrived to hospital alone
+Victim 485 arrived to hospital alone
+Victim 1109 arrived to hospital alone
+@@@@@@@@@ START REPORT #22 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 228 arrived to hospital alone
+Victim 930 arrived to hospital alone
+Victim 987 arrived to hospital alone
+Victim 275 arrived to hospital alone
+Victim 1042 arrived to hospital alone
+Victim 453 arrived to hospital alone
+Victim 225 arrived to hospital alone
+Victim 1206 arrived to hospital alone
+Victim 1069 arrived to hospital alone
+Victim 467 arrived to hospital alone
+Victim 926 arrived to hospital alone
+Victim 1052 arrived to hospital alone
+Victim 424 arrived to hospital alone
+Victim 1021 arrived to hospital alone
+Victim 808 arrived to hospital alone
+Victim 526 arrived to hospital alone
+Victim 1049 arrived to hospital alone
+Victim 1144 arrived to hospital alone
+Victim 666 arrived to hospital alone
+Victim 285 arrived to hospital alone
+Victim 464 arrived to hospital alone
+Victim 579 arrived to hospital alone
+Victim 1137 arrived to hospital alone
+Victim 357 arrived to hospital alone
+Victim 1143 arrived to hospital alone
+Victim 867 arrived to hospital alone
+@@@@@@@@@ START REPORT #23 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 229 arrived to hospital alone
+Victim 1134 arrived to hospital alone
+Victim 691 arrived to hospital alone
+Victim 217 arrived to hospital alone
+Victim 754 arrived to hospital alone
+Victim 327 arrived to hospital alone
+Victim 1012 arrived to hospital alone
+Victim 620 arrived to hospital alone
+Victim 1094 arrived to hospital alone
+Victim 967 arrived to hospital alone
+Victim 543 arrived to hospital alone
+Victim 970 arrived to hospital alone
+Victim 913 arrived to hospital alone
+@@@@@@@@@ START REPORT #24 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 4
+Victims Red          : 2
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 710 arrived to hospital alone
+Victim 1193 arrived to hospital alone
+Victim 317 arrived to hospital alone
+Victim 230 arrived to hospital alone
+Victim 279 arrived to hospital alone
+Victim 325 arrived to hospital alone
+Victim 493 arrived to hospital alone
+Victim 779 arrived to hospital alone
+Victim 905 arrived to hospital alone
+Victim 452 arrived to hospital alone
+Victim 280 arrived to hospital alone
+Victim 361 arrived to hospital alone
+Victim 832 arrived to hospital alone
+Victim 1203 arrived to hospital alone
+Victim 323 arrived to hospital alone
+Victim 890 arrived to hospital alone
+Victim 822 arrived to hospital alone
+Victim 324 arrived to hospital alone
+Victim 847 arrived to hospital alone
+Victim 241 arrived to hospital alone
+Victim 807 arrived to hospital alone
+Victim 342 arrived to hospital alone
+Victim 259 arrived to hospital alone
+Victim 272 arrived to hospital alone
+@@@@@@@@@ START REPORT #25 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 5
+Victims Red          : 3
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 593 arrived to hospital alone
+Victim 1159 arrived to hospital alone
+Victim 328 arrived to hospital alone
+Victim 863 arrived to hospital alone
+Victim 209 arrived to hospital alone
+Victim 551 arrived to hospital alone
+Victim 1003 arrived to hospital alone
+Victim 439 arrived to hospital alone
+Victim 915 arrived to hospital alone
+Victim 656 arrived to hospital alone
+Victim 428 arrived to hospital alone
+Victim 1139 arrived to hospital alone
+@@@@@@@@@ START REPORT #26 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 6
+Victims Red          : 4
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 1114 arrived to hospital alone
+Victim 903 arrived to hospital alone
+Victim 910 arrived to hospital alone
+Victim 806 arrived to hospital alone
+Victim 1124 arrived to hospital alone
+Victim 1155 arrived to hospital alone
+Victim 479 arrived to hospital alone
+Victim 1071 arrived to hospital alone
+Victim 813 arrived to hospital alone
+Victim 631 arrived to hospital alone
+@@@@@@@@@ START REPORT #27 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 7
+Victims Red          : 5
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 614 arrived to hospital alone
+Victim 449 arrived to hospital alone
+Victim 697 arrived to hospital alone
+Victim 703 arrived to hospital alone
+Victim 965 arrived to hospital alone
+Victim 610 arrived to hospital alone
+Victim 267 arrived to hospital alone
+Victim 242 arrived to hospital alone
+Victim 441 arrived to hospital alone
+Victim 917 arrived to hospital alone
+Victim 1195 arrived to hospital alone
+@@@@@@@@@ START REPORT #28 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 7
+Victims Red          : 5
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 365 arrived to hospital alone
+Victim 1031 arrived to hospital alone
+Victim 882 arrived to hospital alone
+Victim 874 arrived to hospital alone
+Victim 482 arrived to hospital alone
+Victim 322 arrived to hospital alone
+Victim 1060 arrived to hospital alone
+Victim 886 arrived to hospital alone
+Victim 335 arrived to hospital alone
+Victim 1156 arrived to hospital alone
+Victim 412 arrived to hospital alone
+Victim 1152 arrived to hospital alone
+@@@@@@@@@ START REPORT #29 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 7
+Victims Red          : 5
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 354 arrived to hospital alone
+Victim 304 arrived to hospital alone
+Victim 752 arrived to hospital alone
+Victim 334 arrived to hospital alone
+Victim 639 arrived to hospital alone
+Victim 473 arrived to hospital alone
+Victim 500 arrived to hospital alone
+Victim 800 arrived to hospital alone
+Victim 577 arrived to hospital alone
+Victim 362 arrived to hospital alone
+Victim 692 arrived to hospital alone
+Victim 517 arrived to hospital alone
+@@@@@@@@@ START REPORT #30 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 7
+Victims Red          : 5
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 998 arrived to hospital alone
+Victim 1204 arrived to hospital alone
+Victim 235 arrived to hospital alone
+Victim 1199 arrived to hospital alone
+Victim 986 arrived to hospital alone
+Victim 615 arrived to hospital alone
+Victim 315 arrived to hospital alone
+@@@@@@@@@ START REPORT #31 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 7
+Victims Red          : 5
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 237 arrived to hospital alone
+Victim 644 arrived to hospital alone
+Victim 469 arrived to hospital alone
+Victim 985 arrived to hospital alone
+Victim 999 arrived to hospital alone
+Victim 793 arrived to hospital alone
+Victim 595 arrived to hospital alone
+Victim 1076 arrived to hospital alone
+Victim 647 arrived to hospital alone
+Victim 968 arrived to hospital alone
+@@@@@@@@@ START REPORT #32 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 7
+Victims Red          : 5
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 238 arrived to hospital alone
+Victim 212 arrived to hospital alone
+Victim 257 arrived to hospital alone
+Victim 690 arrived to hospital alone
+Victim 992 arrived to hospital alone
+Victim 830 arrived to hospital alone
+@@@@@@@@@ START REPORT #33 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 8
+Victims Red          : 5
+Victims Yellow       : 3
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 686 arrived to hospital alone
+Victim 236 arrived to hospital alone
+Victim 835 arrived to hospital alone
+Victim 497 arrived to hospital alone
+Victim 559 arrived to hospital alone
+Victim 724 arrived to hospital alone
+Victim 1131 arrived to hospital alone
+Victim 898 arrived to hospital alone
+Victim 484 arrived to hospital alone
+@@@@@@@@@ START REPORT #34 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 9
+Victims Red          : 5
+Victims Yellow       : 4
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 943 arrived to hospital alone
+Victim 716 arrived to hospital alone
+Victim 1165 arrived to hospital alone
+Victim 885 arrived to hospital alone
+Victim 367 arrived to hospital alone
+@@@@@@@@@ START REPORT #35 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 9
+Victims Red          : 5
+Victims Yellow       : 4
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 241 arrived to hospital alone
+Victim 547 arrived to hospital alone
+Victim 1129 arrived to hospital alone
+Victim 456 arrived to hospital alone
+@@@@@@@@@ START REPORT #36 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 9
+Victims Red          : 5
+Victims Yellow       : 4
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 242 arrived to hospital alone
+Victim 531 arrived to hospital alone
+Victim 654 arrived to hospital alone
+Victim 1002 arrived to hospital alone
+Victim 936 arrived to hospital alone
+Victim 270 arrived to hospital alone
+Victim 637 arrived to hospital alone
+@@@@@@@@@ START REPORT #37 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 9
+Victims Red          : 5
+Victims Yellow       : 4
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 243 arrived to hospital alone
+Victim 413 arrived to hospital alone
+Victim 621 arrived to hospital alone
+Victim 921 arrived to hospital alone
+Victim 838 arrived to hospital alone
+Victim 274 arrived to hospital alone
+@@@@@@@@@ START REPORT #38 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 9
+Victims Red          : 5
+Victims Yellow       : 4
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 244 arrived to hospital alone
+Victim 972 arrived to hospital alone
+Victim 889 arrived to hospital alone
+Victim 858 arrived to hospital alone
+Victim 1162 arrived to hospital alone
+@@@@@@@@@ START REPORT #39 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 9
+Victims Red          : 5
+Victims Yellow       : 4
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 245 arrived to hospital alone
+Victim 321 arrived to hospital alone
+Victim 906 arrived to hospital alone
+Victim 375 arrived to hospital alone
+@@@@@@@@@ START REPORT #40 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 9
+Victims Red          : 5
+Victims Yellow       : 4
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 246 arrived to hospital alone
+Victim 722 arrived to hospital alone
+Victim 567 arrived to hospital alone
+@@@@@@@@@ START REPORT #41 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 10
+Victims Red          : 5
+Victims Yellow       : 5
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:4
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 596 arrived to hospital alone
+Victim 224 arrived to hospital alone
+DMAT 1208 has been assigend to attend hospital 5
+DMAT 1211 has been assigend to attend hospital 9
+DMAT 1207 has been assigend to attend hospital 8
+DMAT 1209 has been assigend to attend hospital 6
+Victim 1046 arrived to hospital alone
+@@@@@@@@@ START REPORT #42 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 248 arrived to hospital alone
+Victim 507 arrived to hospital alone
+Victim 253 arrived to hospital alone
+@@@@@@@@@ START REPORT #43 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 249 arrived to hospital alone
+Victim 725 arrived to hospital alone
+Victim 958 arrived to hospital alone
+Ambulance 1374 arrived to victim 232 finishing loading on tick 4087
+Victim 371 arrived to hospital alone
+@@@@@@@@@ START REPORT #44 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 626 arrived to hospital alone
+Victim 250 arrived to hospital alone
+DMAT 1209 arrived to hospital 6 staying for support
+@@@@@@@@@ START REPORT #45 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 251 arrived to hospital alone
+Ambulance 1365 arrived to victim 239 finishing loading on tick 4790
+Helicopter 1375 arrived to victim 56 finishing loading on tick 4530
+Victim 893 arrived to hospital alone
+Ambulance 1372 arrived to victim 207 finishing loading on tick 4873
+@@@@@@@@@ START REPORT #46 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 252 arrived to hospital alone
+Victim 312 arrived to hospital alone
+Victim 458 arrived to hospital alone
+Ambulance 1367 arrived to victim 240 finishing loading on tick 4296
+Victim 700 arrived to hospital alone
+@@@@@@@@@ START REPORT #47 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 253 arrived to hospital alone
+Ambulance 1374 finished loading patient, heading to hospital 4
+@@@@@@@@@ START REPORT #48 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 254 arrived to hospital alone
+@@@@@@@@@ START REPORT #49 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 255 arrived to hospital alone
+Ambulance 1368 arrived to victim 231 finishing loading on tick 4895
+Ambulance 1367 finished loading patient, heading to hospital 4
+Ambulance 1366 arrived to victim 247 finishing loading on tick 4620
+@@@@@@@@@ START REPORT #50 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State Unknown
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 2 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Ambulance 1371 arrived to victim 220 finishing loading on tick 4634
+DMAT 1208 arrived to hospital 5 finishing duty on tick 4346
+DMAT 1208 finished task, heading to Gathering Point
+@@@@@@@@@ START REPORT #51 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State:2
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 1 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:5, Staff:3, Beds:14
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+DMAT 1208 has been assigend to attend hospital 6
+@@@@@@@@@ START REPORT #52 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State:2
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 1 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:5, Staff:3, Beds:14
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 257 arrived to hospital alone
+@@@@@@@@@ START REPORT #53 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State:2
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 1 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:5, Staff:3, Beds:14
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:35
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 258 arrived to hospital alone
+Victim 645 arrived to hospital alone
+Helicopter 1375 finished loading patient, heading to SCU 8
+Ambulance 1370 arrived to victim 219 finishing loading on tick 5434
+Ambulance 1367 arrived to hospital 4 finishing unloading on tick 4840
+@@@@@@@@@ START REPORT #54 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 0
+Victims Red          : 0
+Victims Yellow       : 0
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State:2
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 1 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:5, Staff:3, Beds:14
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:36
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 259 arrived to hospital alone
+Ambulance 1374 arrived to hospital 4 finishing unloading on tick 4898
+Ambulance 1366 finished loading patient, heading to hospital 4
+Ambulance 1371 finished loading patient, heading to hospital 3
+Victim 1091 arrived to hospital alone
+Victim 310 arrived to hospital alone
+@@@@@@@@@ START REPORT #55 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 1
+Victims Red          : 0
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State:2
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 1 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:5, Staff:3, Beds:14
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:36
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+DMAT 1207 arrived to hospital 8 staying for support
+@@@@@@@@@ START REPORT #56 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 1
+Victims Red          : 0
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State:2
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 1 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:5, Staff:3, Beds:14
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:36
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 261 arrived to hospital alone
+Ambulance 1365 finished loading patient, heading to hospital 4
+Victim 997 arrived to hospital alone
+@@@@@@@@@ START REPORT #57 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 2
+Victims Red          : 0
+Victims Yellow       : 2
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State:2
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 1 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:37
+ID:5, Staff:3, Beds:14
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:36
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Ambulance 1367 finished unloading patient, heading back home.
+Helicopter 1375 arrived to SCU 1 finishing unloading on tick 5460
+Ambulance 1372 finished loading patient, heading to hospital 4
+Victim 861 arrived to hospital alone
+Ambulance 1368 finished loading patient, heading to hospital 3
+Ambulance 1374 finished unloading patient, heading back home.
+Ambulance 1374 arrived to hospital 4 finishing loading on tick 5199
+@@@@@@@@@ START REPORT #58 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 1
+Victims Red          : 0
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State:2
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 1 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:35
+ID:5, Staff:3, Beds:14
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:36
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 263 arrived to hospital alone
+Ambulance 1367 arrived to victim 260 finishing loading on tick 5250
+Victim 1110 arrived to hospital alone
+Victim 1102 arrived to hospital alone
+@@@@@@@@@ START REPORT #59 @@@@@@@@@@
+========= Current Information Available at Headquarters (EMIS) ==========
+************ VICTIMS WAITING FOR TRANSPORTATION ************
+Transportation needs : 1
+Victims Red          : 0
+Victims Yellow       : 1
+Victims Green        : 0
+************ Hospital Damage Situation Report ************
+ID:3, Damage State:0
+ID:4, Damage State:0
+ID:5, Damage State:2
+ID:6, Damage State:2
+ID:7, Damage State:2
+ID:8, Damage State:1
+ID:9, Damage State Unknown
+ID:10, Damage State:2
+------ NEEDS -------
+Need to dispatch DMAT teams to grasp damage situation at 1 hospitals.
+************ Staff Situation ************
+ID:3, Staff:9, Beds:12
+ID:4, Staff:6, Beds:35
+ID:5, Staff:3, Beds:14
+ID:6, Staff:4, Beds:14
+ID:7, Staff:8, Beds:33
+ID:8, Staff:4, Beds:36
+ID:10, Staff:9, Beds:41
+DMAT teams available:0
+@@@@@@@ END OF REPORT @@@@@@@@
+
+Victim 264 arrived to hospital alone
